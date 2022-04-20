@@ -8,23 +8,20 @@
       "label": "Article"
     },
     "label_props": {
-      "files": [
-        "pdf"
-      ],
-      "title": "Personal experiences bridge moral and political divides better than facts",
-      "authors": [
+      "strTitle": "Personal experiences bridge moral and political divides better than facts",
+      "relAuthors": [
         "Emily Kubin",
         "Curtis Puryear",
         "Chelsea Schein",
         "Kurt Gray"
       ],
-      "abstract": "",
-      "publication": "Proceedings of the National Academy of Sciences",
-      "volume": "118",
-      "issue": "6",
-      "pages": "",
-      "date": "2021",
-      "doi": "10.1073/pnas.2008389118"
+      "strAbstract": "",
+      "relPublication": ["Proceedings of the National Academy of Sciences"],
+      "strVolume": "118",
+      "strIssue": "6",
+      "strPages": "",
+      "relDate": ["2021"],
+      "strDoi": "10.1073/pnas.2008389118"
     }
   },
   {
@@ -36,16 +33,15 @@
       "label": "Book"
     },
     "label_props": {
-      "authors": [
+      "relAuthors": [
         "Michael E. McGerr"
       ],
-      "desc": "",
-      "files": [],
-      "isbn": "9780195183658",
-      "publisher": "Oxford University Press",
-      "subtitle": "The Rise and Fall of the Progressive Movement in America, 1870-1920",
-      "title": "A Fierce Discontent",
-      "year": 2005
+      "strDesc": "",
+      "strIsbn": "9780195183658",
+      "strPublisher": "Oxford University Press",
+      "strSubtitle": "The Rise and Fall of the Progressive Movement in America, 1870-1920",
+      "strTitle": "A Fierce Discontent",
+      "strYear": 2005
     }
   },
   {
@@ -58,15 +54,15 @@
     },
     "edges": [""],
     "label_props": {
-      "images": [
+      "relImages": [
         "hanni200908basilicacistern02",
         "hanni200908basilicacistern03",
         "hanni200908basilicacistern02",
         "hanni200908basilicacistern03"
       ],
-      "height": "100%",
-      "width": "100%",
-      "parent_nodes": ["89ccdc9b47cd3a3b"]
+      "strHeight": "100%",
+      "strWidth": "100%",
+      "relParentNodes": ["89ccdc9b47cd3a3b"]
     }
   },
   {
@@ -105,7 +101,6 @@
       "description": "Talk given at Open Source Bridge in Portland, Oregon.",
       "url": "",
       "date_accessed": "",
-      "files": ["pdf"],
       "related_nodes": ["4673e1301e954a0"]
     }
   },
@@ -154,9 +149,6 @@
       ],
       "music_by": [
         "Dan Romer"
-      ],
-      "files": [
-        "mp4"
       ],
       "title": "Luca",
       "year": "2021",
@@ -305,7 +297,6 @@
       "label": "Interview"
     },
     "label_props": {
-      "files": [],
       "format": "video",
       "interviewees": [
         "Robert Garcia"
@@ -460,7 +451,6 @@
         "Sufjan Stevens"
       ],
       "length_secs": "412",
-      "files": ["mp3"],
       "title": "Wallowa Lake Monster",
       "year": "2015",
       "album": "Carrie & Lowell",
