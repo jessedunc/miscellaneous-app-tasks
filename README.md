@@ -3,6 +3,6 @@ This is a public repo for completing small tasks related to a private React + El
 
 ## Status 
 
-|Task|Description|Language|Link|Date Completed|
-|----|-----------|--------|----|--------------|
-|1|Convert many JSON objects from old schema to new schema|Any|[Link](task01/README.md)||
+|Task|Description|Language|Link|Complete|
+|----|-----------|--------|----|--------|
+|1|Convert JSON objects from old schema to new schema|Any|[Link](task01/README.md)||
