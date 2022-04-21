@@ -57,6 +57,29 @@
   {
     "core_props": {
       "dest_sites": [],
+      "id": "foo202201bearcreeksnowshoe1",
+      "date_created": 1635632174,
+      "date_updated": 1635637123,
+      "label": "Artwork"
+    },
+    "edges": ["e8ee3f70cbc7d5a2"],
+    "label_props": {
+      "medium": "photo",
+      "files": [],
+      "created_by": [
+        "aaaaaaaaaaaaaaaa"
+      ],
+      "location": "Bear Creek",
+      "caption": "Looking across Bear Creek.",
+      "year": "2022",
+      "height_px": "3024",
+      "width_px": "4032",
+      "orientation": "landscape"
+    }
+  },
+  {
+    "core_props": {
+      "dest_sites": [],
       "date_created": "1638593831",
       "date_updated": "1638593831",
       "id": "mcgerr2005fiercediscontent",
@@ -539,7 +562,7 @@
     "edges": [],
     "label_props": {
       "related_topics": [],
-      "text": "Wallowa County History",
+      "text": "Local County History",
       "color": ""
     }
   },
