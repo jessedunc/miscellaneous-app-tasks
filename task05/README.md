@@ -16,7 +16,7 @@ This is an example function in Bash which also strips the trailing newline chara
 openssl rand -hex 8 | tr -d '\n' | xclip -sel clip
 ```
 
-**Task**
+**Basic Task**
 
 Write a function in Python to generate this 16-digit hexstring. Using `uuidv4` is a good place to start.
 
