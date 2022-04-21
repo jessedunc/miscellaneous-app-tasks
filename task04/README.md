@@ -1,6 +1,6 @@
 ## Task 04
 
-We have a .csv file where every row is associated with a jpg image. Each row has the following columns.
+Every row in the included `plants.csv` file is associated with a jpg image. Each row has the following columns:
 
 - id
 - common_name
@@ -14,7 +14,18 @@ We have a .csv file where every row is associated with a jpg image. Each row has
 - desc
 - photographer
 
-The task is to convert the .csv file into a JSON file that is a list of objects. 
+The task is to convert the .csv file into a JSON file that is a list of objects, roughly: 
+
+```
+[
+  {plant node},
+  {plant node},
+  {artwork node},
+  {artwork node}
+]
+```
+
+The nodes don't have to be in any particular order.
 
 **Creating identifiers**
 
@@ -94,4 +105,6 @@ If `in_hells_canyon_book` is true, add a string "placeholder2022plantshellscanyo
 
 For now, if `is_invasive` is true, set `strNativity` to "Non-Native & Invasive". If it's false, set `strNativity` to Native. Otherwise, set `strNativity` to "Unsure".
 
+**Further Questions**
 
+- How do you know you didn't miss a row? 
