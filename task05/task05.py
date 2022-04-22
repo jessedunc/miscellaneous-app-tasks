@@ -1,10 +1,14 @@
+import uuid
+
 def getHexstring(desiredChars, arr):
     """Comment here"""
 
     print(desiredChars, arr)
-    hexstring = 'ddb30acf4aacfee5'
-
-    return hexstring
+    hexstring = uuid.uuid4()
+    hexstring = str(hexstring)
+    print(f" case1: {hexstring}")
+    hexstring =  hexstring.replace('-', '')
+    return str(hexstring)[:desiredChars]
 
 if __name__ == '__main__':
 
