@@ -1,7 +1,11 @@
+import time
 from datetime import *
 
-
 def convertTimestampToYYYYMMDD(ts):
+
+    ts.datetime.strftime('%Y-%m-%d')
+
+def convertTimestampToYYYYMMDD2(ts):
     days = ts / 86400  # find amount of days in the ts
 
     timestampstart = date(1970, 1, 1)
@@ -22,5 +26,9 @@ def convertYYYYMMDDtoTimestamp(timestring):
 
 
 if __name__ == '__main__':
-    print(convertTimestampToYYYYMMDD(1650473094))
-    print(convertYYYYMMDDtoTimestamp('20220420'))
+
+    example_timestamp = int(time.time())
+    example_timestring = '20220420'
+
+    print(convertTimestampToYYYYMMDD(example_timestamp))
+    print(convertYYYYMMDDtoTimestamp(example_timestring))
