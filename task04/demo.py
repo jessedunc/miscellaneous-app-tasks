@@ -14,6 +14,7 @@ plants = []
 fieldnames = ("id","common_name","latin_name","family","in_hells_canyon_book","is_invasive","native_nonnative","color","note","desc")
 reader = csv.DictReader(csvfile, fieldnames)
 
+
 # only capture rows that should be in this hells canyon book
 
 for row in reader:

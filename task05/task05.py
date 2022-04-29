@@ -5,13 +5,11 @@ def getHexstring(desiredChars, arr):
     """Comment here"""
 
     while True:
-        print(desiredChars, arr)
         hexstring = uuid.uuid4()
         hexstring = str(hexstring)
 
         if hexstring not in arr:
             break
-    print(f" case1: {hexstring}")
     hexstring = hexstring.replace('-', '')
     return str(hexstring)[:desiredChars]
 
