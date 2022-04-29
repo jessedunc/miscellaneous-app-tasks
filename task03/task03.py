@@ -1,34 +1,27 @@
 import time
-from datetime import *
+from datetime import datetime
 
 def convertTimestampToYYYYMMDD(ts):
+    """ Given a unix epoch timestamp of form "1651192385",
+    returns a string in the form "20220428" """
 
-    ts.datetime.strftime('%Y-%m-%d')
-
-def convertTimestampToYYYYMMDD2(ts):
-    days = ts / 86400  # find amount of days in the ts
-
-    timestampstart = date(1970, 1, 1)
-
-    newDate = timestampstart + timedelta(days=days)  # add amount of days to timestamp start
-
-    return str(newDate).replace('-', '')
+    return datetime.strftime(datetime.fromtimestamp(ts), '%Y%m%d')
 
 
 def convertYYYYMMDDtoTimestamp(timestring):
-    timestampstart = date(1970, 1, 1)
+    """ Given a string in the form "20220428",
+    returns a unix epoch timestamp integer of form "1651129200" """
 
-    timestring = datetime.strptime(timestring, '%Y%m%d').date()  # convert timestring to date object
-
-    days = (timestring - timestampstart).days  # find amount of days from timestamp start to timestring
-
-    return days * 86400
+    return int(time.mktime(datetime.strptime(timestring, "%Y%m%d").timetuple()))
 
 
 if __name__ == '__main__':
 
     example_timestamp = int(time.time())
-    example_timestring = '20220420'
+    example_timestring = '20220428'
 
-    print(convertTimestampToYYYYMMDD(example_timestamp))
-    print(convertYYYYMMDDtoTimestamp(example_timestring))
+    print(f'example_timestamp: {example_timestamp}')
+    print(f'converted timestring: {convertTimestampToYYYYMMDD(example_timestamp)}')
+
+    print(f'example_timestring: {example_timestring}')
+    print(f'converted timestamp: {convertYYYYMMDDtoTimestamp(example_timestring)}')
