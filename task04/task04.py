@@ -1,8 +1,9 @@
 import csv
 import json
-import task05.task05
-import task03.task03
-import datetime
+import uuid
+from datetime import datetime
+from datetime import date
+import time
 
 csvFile = open('plants.csv', 'r', encoding='utf8')
 
@@ -12,6 +13,33 @@ fieldNames = (
     "note", "desc")
 
 reader = csv.DictReader(csvFile, fieldnames=fieldNames)
+
+
+def convertTimestampToYYYYMMDD(ts):
+    """ Given a unix epoch timestamp of form "1651192385",
+    returns a string in the form "20220428" """
+
+    return datetime.strftime(datetime.fromtimestamp(ts), '%Y%m%d')
+
+
+def convertYYYYMMDDtoTimestamp(timestring):
+    """ Given a string in the form "20220428",
+    returns a unix epoch timestamp integer of form "1651129200" """
+
+    return int(time.mktime(datetime.strptime(timestring, "%Y%m%d").timetuple()))
+
+
+def getHexstring(desiredChars, arr):
+    """Comment here"""
+
+    while True:
+        hexstring = uuid.uuid4()
+        hexstring = str(hexstring)
+
+        if hexstring not in arr:
+            break
+    hexstring = hexstring.replace('-', '')
+    return str(hexstring)[:desiredChars]
 
 
 def containsLatinName(latinName):
@@ -48,11 +76,11 @@ for row in reader:
             {"core_props":
                 {
                     "dest_sites": [],
-                    "id": task05.task05.getHexstring(16, [])[:23],
-                    "date_created": task03.task03.convertYYYYMMDDtoTimestamp(
-                        str(datetime.date.today()).replace('-', '')),
-                    "date_updated": task03.task03.convertYYYYMMDDtoTimestamp(
-                        str(datetime.date.today()).replace('-', '')),
+                    "id": getHexstring(16, [])[:23],
+                    "date_created": convertYYYYMMDDtoTimestamp(
+                        str(date.today()).replace('-', '')),
+                    "date_updated": convertYYYYMMDDtoTimestamp(
+                        str(date.today()).replace('-', '')),
                     "label": 'Artwork'
                 },
                 "label_props":
@@ -63,7 +91,7 @@ for row in reader:
                         ],
                         "strLocation": "",
                         "strCaption": "",
-                        "relTimestamp": ['date' + str(datetime.date.today()).replace('-', '')],
+                        "relTimestamp": ['date' + str(date.today()).replace('-', '')],
                         "strHeightPx": "",
                         "strWidthPx": "",
                         "strOrientation": "",
@@ -77,11 +105,11 @@ for row in reader:
                 {"core_props": {
 
                     "dest_sites": [],
-                    "id": task05.task05.getHexstring(16, [])[:23],
-                    "date_created": task03.task03.convertYYYYMMDDtoTimestamp(
-                        str(datetime.date.today()).replace('-', '')),
-                    "date_updated": task03.task03.convertYYYYMMDDtoTimestamp(
-                        str(datetime.date.today()).replace('-', '')),
+                    "id": getHexstring(16, [])[:23],
+                    "date_created": convertYYYYMMDDtoTimestamp(
+                        str(date.today()).replace('-', '')),
+                    "date_updated": convertYYYYMMDDtoTimestamp(
+                        str(date.today()).replace('-', '')),
                     "label": "Plant"
                 },
                     "label_props": {
@@ -99,5 +127,5 @@ for row in reader:
             )
 findImages()
 
-with open ('output/plants.json', 'w') as jsonFile:
+with open ('plants.json', 'w') as jsonFile:
     json.dump(plants, jsonFile, indent=4)
