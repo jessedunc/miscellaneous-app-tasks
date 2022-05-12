@@ -109,3 +109,13 @@ That first case is empty. In that case, just delete the prop.
             1. Drop the old node from `nodes.json`
             1. Add your new node to `nodes.json`.
 
+## Notes for future tasks, maybe
+
+Don't worry about this for the moment. It's just background info. 
+
+The app mimics a graph database of objects called `nodes` connected to each other by relationships called `edges`. 
+
+The word "schema" just means "what the data looks like" or "what form the data takes". In this case, we invented the schema in `input.json` based on a good guess about what we would need for the app. As we prototyped, though, we realized the original schema needs to be changed. Since we don't want to lose the data we've created with the app, we want to convert the existing nodes from the old schema to the new schema. 
+
+
+

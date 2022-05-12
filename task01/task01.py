@@ -5,44 +5,24 @@
 
 import json
 
-inputFilepath = 'input.json'
-outputFilepath = 'output.json'
+csvFilepath = 'changes.csv'     # in
+nodesFilepath = 'nodes.json'    # in
 
-exampleOutputFilepath = 'desired-output.json'
+outputFilepath = 'output.json'  # out
+
+nodes = []                      # global nodes list
 
 ## read the input file
 
-with open(filepath, 'r') as f:
-  data = json.load(f)
+with open(nodesFilepath, 'r') as f:
+  nodes = json.load(f)
 
-## get a sorted list that is the set of non-null labels
-## - the label is in obj['core_props']['label']
-## - if a node's label is null or None, ignore it
-## - remember to filter out any null or None labels
+## do stuff
 
-setOfKeys = []
 
-for d in data:
-    if d['core_props']['label']:
-      setOfKeys.append(d['core_props']['label'])
-
-setOfKeys = set(setOfKeys)
-setOfKeys = sorted(setOfKeys)
-
-for s in setOfKeys:
-    print(s)
-
-## manipulate the data
-## - remove edges
-## - identify the label
-## - rename, drop, or add properties as appropriate
-
-print('manipulate the data here')
-
-data = 'stuff'
 
 ## write the output file
 
 with open(outputFilepath, 'w') as f:
-  f.write(json.dumps(data, indent=4, sort_keys=True))
+  f.write(json.dumps(nodes, indent=4, sort_keys=True))
 

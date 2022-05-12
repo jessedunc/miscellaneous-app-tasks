@@ -1,0 +1,628 @@
+[
+    {
+        "core_props": {
+            "date_created": 1643052738,
+            "date_updated": 1643052738,
+            "dest_sites": [],
+            "id": "494de528f2ea41",
+            "label": null
+        },
+        "edges": [],
+        "label_props": null
+    },
+    {
+        "core_props": {
+            "date_created": 1635632174,
+            "date_updated": 1635637123,
+            "dest_sites": [],
+            "id": "b0a830e950efef65",
+            "label": "Topic"
+        },
+        "edges": [],
+        "label_props": {
+            "color": "",
+            "related_topics": [],
+            "text": "German History"
+        }
+    },
+    {
+        "core_props": {
+            "date_created": 1635632174,
+            "date_updated": 1635637123,
+            "dest_sites": [],
+            "id": "kubin2021personalexperiencesbridge",
+            "label": "Article"
+        },
+        "edges": [],
+        "label_props": {
+            "abstract": "",
+            "authors": [
+                "Emily Kubin",
+                "Curtis Puryear",
+                "Chelsea Schein",
+                "Kurt Gray"
+            ],
+            "date": "2021",
+            "doi": "10.1073/pnas.2008389118",
+            "files": [
+                "pdf"
+            ],
+            "issue": "6",
+            "pages": "",
+            "publication": "Proceedings of the National Academy of Sciences",
+            "title": "Personal experiences bridge moral and political divides better than facts",
+            "volume": "118"
+        }
+    },
+    {
+        "core_props": {
+            "date_created": 1635632174,
+            "date_updated": 1635637123,
+            "dest_sites": [],
+            "id": "foo202201bearcreeksnowshoe1",
+            "label": "Artwork"
+        },
+        "edges": [
+            "e8ee3f70cbc7d5a2"
+        ],
+        "label_props": {
+            "caption": "Looking across Bear Creek.",
+            "created_by": [
+                "aaaaaaaaaaaaaaaa"
+            ],
+            "files": [],
+            "height_px": "3024",
+            "location": "Bear Creek",
+            "medium": "photo",
+            "orientation": "landscape",
+            "width_px": "4032",
+            "year": "2022"
+        }
+    },
+    {
+        "core_props": {
+            "date_created": "1638593831",
+            "date_updated": "1638593831",
+            "dest_sites": [],
+            "id": "mcgerr2005fiercediscontent",
+            "label": "Book"
+        },
+        "edges": [],
+        "label_props": {
+            "authors": [
+                "Michael E. McGerr"
+            ],
+            "desc": "",
+            "files": [],
+            "isbn": "9780195183658",
+            "publisher": "Oxford University Press",
+            "subtitle": "The Rise and Fall of the Progressive Movement in America, 1870-1920",
+            "title": "A Fierce Discontent",
+            "year": 2005
+        }
+    },
+    {
+        "core_props": {
+            "date_created": 1635632174,
+            "date_updated": 1635637123,
+            "dest_sites": [],
+            "id": "362850d3878e49c6",
+            "label": "Collage"
+        },
+        "edges": [
+            ""
+        ],
+        "label_props": {
+            "height": "100%",
+            "images": [
+                "hanni200908basilicacistern02",
+                "hanni200908basilicacistern03",
+                "hanni200908basilicacistern02",
+                "hanni200908basilicacistern03"
+            ],
+            "parent_nodes": [
+                "89ccdc9b47cd3a3b"
+            ],
+            "width": "100%"
+        }
+    },
+    {
+        "core_props": {
+            "date_created": "1638593831",
+            "date_updated": "1638593831",
+            "dest_sites": [],
+            "id": "3d618c3d146f9346",
+            "label": "Definition"
+        },
+        "edges": [],
+        "label_props": {
+            "definition": "The branch of science concerned with classification, especially of organisms; systematics. The classification of something, especially organisms.",
+            "synonyms": [
+                "systematics"
+            ],
+            "word": "taxonomy"
+        }
+    },
+    {
+        "core_props": {
+            "date_created": "1638593831",
+            "date_updated": "1638593831",
+            "dest_sites": [],
+            "id": "d72f0bfd3ee5441",
+            "label": "Document"
+        },
+        "edges": [],
+        "label_props": {
+            "collected_in": "",
+            "date": "",
+            "date_accessed": "",
+            "description": "Talk given at Open Source Bridge in Portland, Oregon.",
+            "doc_number": "",
+            "files": [
+                "pdf"
+            ],
+            "location": "",
+            "pages": "",
+            "published_by": "",
+            "related_nodes": [
+                "4673e1301e954a0"
+            ],
+            "subtitle": "",
+            "title": "Open Source Your Circuits with KiCad",
+            "translated_by": [],
+            "url": "",
+            "written_by": [
+                "aaaaaaaaaaaaaaaa"
+            ]
+        }
+    },
+    {
+        "core_props": {
+            "date_created": 1635632174,
+            "date_updated": 1635637123,
+            "dest_sites": [],
+            "id": "7cb74e44bf1338ae",
+            "label": "Event"
+        },
+        "edges": [],
+        "label_props": {
+            "date": "19181118",
+            "description": "World War I comes to an end with an armistice signed by the Allies and Germany.",
+            "related_sources": [],
+            "related_topics": [
+                "b0a830e950efef65",
+                "d16c3a827cbcab62"
+            ],
+            "text": "Armistice Day",
+            "wikidata": "Q6597183"
+        }
+    },
+    {
+        "core_props": {
+            "date_created": 1635632174,
+            "date_updated": 1635637123,
+            "dest_sites": [],
+            "id": "casarosa2021luca",
+            "label": "Film"
+        },
+        "edges": [],
+        "label_props": {
+            "actors": [
+                "Jacob Tremblay",
+                "Jack Dylan Grazer",
+                "Emma Berman"
+            ],
+            "cinematographers": [
+                "David Juan Bianchi",
+                "Kim White"
+            ],
+            "desc": "On the Italian Riviera, an unlikely but strong friendship grows between a human being and a sea monster disguised as a human.",
+            "directors": [
+                "Enrico Casarosa"
+            ],
+            "files": [
+                "mp4"
+            ],
+            "location": "United States",
+            "music_by": [
+                "Dan Romer"
+            ],
+            "publisher": "Pixar Animation Studios, Walt Disney Pictures",
+            "title": "Luca",
+            "writers": [
+                "Jesse Andrews",
+                "Mike Jones"
+            ],
+            "year": "2021"
+        }
+    },
+    {
+        "core_props": {
+            "date_created": 1635632174,
+            "date_updated": 1635637123,
+            "dest_sites": [],
+            "id": "sierra1989questglory1",
+            "label": "Game"
+        },
+        "edges": [
+            "fddc8fc57d67952f"
+        ],
+        "label_props": {
+            "desc": "",
+            "platform": "PC",
+            "publisher": "Sierra",
+            "subtitle": "",
+            "title": "Quest For Glory 1",
+            "year": "1989"
+        }
+    },
+    {
+        "core_props": {
+            "date_created": "1635632174",
+            "date_updated": "1635637123",
+            "dest_sites": [],
+            "id": "68d9045b4adcd50c",
+            "label": "Hexroom"
+        },
+        "edges": [
+            "yates1966artmemory",
+            "sappho2003ifnotwinter",
+            "fdd0f83f9161f762",
+            "ikkyu2000crowwithnomouth",
+            "hart2006hauntedselfstructural"
+        ],
+        "label_props": {
+            "description": "The warm, muted light brightens automatically as the Partner, coffee cup in hand, steps inside.",
+            "hex_bgcolor": "#fff",
+            "hex_sides_n_edge": "solid",
+            "hex_sides_n_id": "",
+            "hex_sides_ne_edge": "solid",
+            "hex_sides_ne_id": "",
+            "hex_sides_nw_edge": "solid",
+            "hex_sides_nw_id": "",
+            "hex_sides_s_edge": "solid",
+            "hex_sides_s_id": "",
+            "hex_sides_se_edge": "dashed",
+            "hex_sides_se_id": "cbed4267a1a3a9c4",
+            "hex_sides_sw_edge": "dashed",
+            "hex_sides_sw_id": "",
+            "hex_textcolor": "#000",
+            "hexroom_page_theme": "",
+            "homepart": "1b1bc7e8c2204601",
+            "name": "Partner's Office",
+            "nav_items": [
+                {
+                    "layout": "cb",
+                    "layout_left": "desc",
+                    "layout_left_labels": [],
+                    "layout_right": "mbti_stack",
+                    "layout_right_labels": [
+                        "Book",
+                        "Film"
+                    ],
+                    "slug": "home"
+                },
+                {
+                    "layout": "cb",
+                    "layout_left": "desc",
+                    "layout_left_labels": [],
+                    "layout_right": "",
+                    "layout_right_labels": [],
+                    "slug": "part"
+                },
+                {
+                    "layout": "cb",
+                    "layout_left": "desc",
+                    "layout_left_labels": [],
+                    "layout_right": "",
+                    "layout_right_labels": [],
+                    "slug": "tasks"
+                },
+                {
+                    "layout": "cb",
+                    "layout_left": "desc",
+                    "layout_left_labels": [],
+                    "layout_right": "",
+                    "layout_right_labels": [],
+                    "slug": "inbox"
+                },
+                {
+                    "layout": "cb",
+                    "layout_left": "desc",
+                    "layout_left_labels": [],
+                    "layout_right": "",
+                    "layout_right_labels": [],
+                    "slug": "journal"
+                },
+                {
+                    "layout": "cb",
+                    "layout_left": "desc",
+                    "layout_left_labels": [],
+                    "layout_right": "",
+                    "layout_right_labels": [],
+                    "slug": "music"
+                },
+                {
+                    "layout": "cb",
+                    "layout_left": "desc",
+                    "layout_left_labels": [],
+                    "layout_right": "",
+                    "layout_right_labels": [],
+                    "slug": "bookcase"
+                },
+                {
+                    "layout": "cb",
+                    "layout_left": "desc",
+                    "layout_left_labels": [],
+                    "layout_right": "",
+                    "layout_right_labels": [],
+                    "slug": "clear"
+                }
+            ],
+            "nav_items_format": "grid",
+            "related_parts": [
+                "1b1bc7e8c2204601"
+            ]
+        }
+    },
+    {
+        "core_props": {
+            "date_created": "1635632174",
+            "date_updated": "1635637123",
+            "dest_sites": [],
+            "id": "206f56f55d44faed",
+            "label": "HexroomImage"
+        },
+        "edges": [
+            "847312a7361e027c"
+        ],
+        "label_props": {
+            "alt": "Essays alcove"
+        }
+    },
+    {
+        "core_props": {
+            "date_created": 1635632174,
+            "date_updated": 1635637123,
+            "dest_sites": [],
+            "id": "hubbard1989robertgarcia",
+            "label": "Interview"
+        },
+        "edges": [],
+        "label_props": {
+            "date": "18 January 1989",
+            "description": "ACT UP HIV/AIDS activist.",
+            "files": [],
+            "format": "video",
+            "interviewees": [
+                "Robert Garcia"
+            ],
+            "interviewers": [
+                "Jim Hubbard"
+            ],
+            "url_accessed": "20 November 2021"
+        }
+    },
+    {
+        "core_props": {
+            "date_created": "1638593831",
+            "date_updated": "1638593831",
+            "dest_sites": [],
+            "id": "ee6208986b962036",
+            "label": "Keystone"
+        },
+        "edges": [],
+        "label_props": {
+            "text": "When I wrote this code, only God and I understood what I did. Now only God knows."
+        }
+    },
+    {
+        "core_props": {
+            "date_created": 1635632174,
+            "date_updated": 1635637123,
+            "dest_sites": [],
+            "id": "7a3c5f210097fa3b",
+            "label": "MyWriting"
+        },
+        "edges": [],
+        "label_props": {
+            "date": "1583106085",
+            "description": "Visiting the Basilica Cistern in Istanbul, Turkey.",
+            "nodes": [
+                "b66cffc2861a33b8",
+                "1da43fac3d7eae41",
+                "67f579dc9ed1666a"
+            ],
+            "related_nodes": [
+                "48025c3db5af74ba"
+            ],
+            "status": "draft",
+            "title": "The Basilica Cistern",
+            "type": "prose"
+        }
+    },
+    {
+        "core_props": {
+            "date_created": 1635632174,
+            "date_updated": 1635637123,
+            "dest_sites": [],
+            "id": "7a9e29b683760717",
+            "label": "Note"
+        },
+        "edges": [],
+        "label_props": {
+            "related_topics": [],
+            "text": "**Lorem Ipsum** dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        }
+    },
+    {
+        "core_props": {
+            "date_created": "1635632174",
+            "date_updated": "1635637123",
+            "dest_sites": [],
+            "id": "5eb396afdecb8dae",
+            "label": "Part"
+        },
+        "edges": [],
+        "label_props": {
+            "description": "Swimming in storytelling.\n\n**Topics**\n\nhistory topics, wallowa county, european history, american history, nez perce, indian wars, the west, progressivism, german & swiss immigrants, oregon history",
+            "homehex": "7aa486f835907285",
+            "name": "The Historian",
+            "related_hexrooms": [
+                "7aa486f835907285",
+                "7025be1276e16c82",
+                "30eafe1b49657ea7"
+            ],
+            "status": "",
+            "textcolor_rgb": "#603100"
+        }
+    },
+    {
+        "core_props": {
+            "date_created": 1635632174,
+            "date_updated": 1635637123,
+            "dest_sites": [],
+            "id": "432ea11e2af491b3",
+            "label": "Person"
+        },
+        "edges": [],
+        "label_props": {
+            "bio": "Martin Bauml Duberman is an American historian, biographer, playwright, and activist. Duberman is Professor of History Emeritus at Herbert Lehman College in the Bronx, New York City.",
+            "birth_date": "6 August 1930",
+            "death_date": "",
+            "name": "Martin Duberman",
+            "wikidata": "Q1372878"
+        }
+    },
+    {
+        "core_props": {
+            "date_created": "1638593831",
+            "date_updated": "1638593831",
+            "dest_sites": [],
+            "id": "bb283913f1504c1",
+            "label": "Project"
+        },
+        "edges": [],
+        "label_props": {
+            "categories": [
+                "website"
+            ],
+            "description": "Garden center website built with WordPress and WooCommerce.",
+            "keyword": "",
+            "related_nodes": [],
+            "related_tasks": [],
+            "source": "",
+            "techs": [
+                "WordPress"
+            ],
+            "title": "Blooming Junction",
+            "website": [
+                {
+                    "address": "http://bloomingjunction.com/",
+                    "linktext": "Website"
+                }
+            ],
+            "year": "2019"
+        }
+    },
+    {
+        "core_props": {
+            "date_created": 1635632174,
+            "date_updated": 1635637123,
+            "dest_sites": [],
+            "id": "2188df5c01b97515",
+            "label": "Quote"
+        },
+        "edges": [],
+        "label_props": {
+            "page": "21",
+            "related_topics": [],
+            "source": "boag2011redressingamericafrontier",
+            "text": "\"Quote goes here\""
+        }
+    },
+    {
+        "core_props": {
+            "date_created": 1635632174,
+            "date_updated": 1635637123,
+            "dest_sites": [],
+            "id": "stevens2014wallowalakemonster",
+            "label": "Song"
+        },
+        "edges": [],
+        "label_props": {
+            "album": "Carrie & Lowell",
+            "artists": [
+                "Sufjan Stevens"
+            ],
+            "cover_img": "stevens2014carrie&lowell",
+            "files": [
+                "mp3"
+            ],
+            "label": "Asthmatic Kitty",
+            "length_secs": "412",
+            "title": "Wallowa Lake Monster",
+            "year": "2015"
+        }
+    },
+    {
+        "core_props": {
+            "date_created": "1635632174",
+            "date_updated": "1635637123",
+            "dest_sites": [],
+            "id": "a67fd07f041a4202",
+            "label": "Task"
+        },
+        "edges": [
+            "1b1bc7e8c2204601"
+        ],
+        "label_props": {
+            "is_done": "",
+            "related_parts": [
+                "29aaf890cad97952"
+            ],
+            "related_topics": [],
+            "room": "",
+            "text": "Create a task room or fold a task list into the Foyer Notice Board."
+        }
+    },
+    {
+        "core_props": {
+            "date_created": 1635632174,
+            "date_updated": 1635637123,
+            "dest_sites": [],
+            "id": "48025c3db5af74ba",
+            "label": "Topic"
+        },
+        "edges": [],
+        "label_props": {
+            "color": "",
+            "related_topics": [],
+            "text": "Local County History"
+        }
+    },
+    {
+        "core_props": {
+            "date_created": "1638593831",
+            "date_updated": "1638593831",
+            "dest_sites": [],
+            "id": "bcb80285ae754fa",
+            "label": "Zipfile"
+        },
+        "edges": [],
+        "label_props": {
+            "created_by": [
+                "aaaaaaaaaaaaaaaa"
+            ],
+            "description": "KnockoutJS app for tourists with info on the bronze statues on Main Street.",
+            "related_nodes": [
+                "e9e12989bdad47e"
+            ],
+            "subtitle": "",
+            "title": "Joseph Art Walk",
+            "type": [
+                "website"
+            ]
+        }
+    }
+]
