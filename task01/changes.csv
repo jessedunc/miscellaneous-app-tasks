@@ -1,0 +1,12 @@
+label,old_prop,new_prop
+Article,files,
+Article,title,strTitle
+Article,authors,relAuthors
+Article,abstract,strAbstract
+Article,publication,strPublication
+Article,volume,strVolume
+Article,issue,strIssue
+Article,pages,strPages
+Article,date,strYear
+Article,doi,strDoi
+
