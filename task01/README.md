@@ -1,6 +1,6 @@
 ## Task 01
 
-Possibly useful link: [Skip first line(field) in loop using CSV file?](https://stackoverflow.com/questions/14674275/skip-first-linefield-in-loop-using-csv-file)
+Possibly useful links: [Skip first line(field) in loop using CSV file?](https://stackoverflow.com/questions/14674275/skip-first-linefield-in-loop-using-csv-file) and [What is difference between shallow copy, deepcopy, and normal assignment operation?](https://stackoverflow.com/questions/17246693/what-is-the-difference-between-shallow-copy-deepcopy-and-normal-assignment-oper)
 
 ### Task
 
@@ -98,9 +98,9 @@ That first case is empty. In that case, just delete the prop.
 
 1. Read in the csv file and programmatically ignore the header
 1. Read in the `nodes.json` file
-1. For every row in the csv file, 
+1. For every row in the `changes.csv` file, 
     1. For every node with that label in `nodes.json`,
-        1. If the keyword does not work, print the bad node & the row in the csv file
+        1. If the keyword does not work, print the bad node & the row in `changes.csv`
         1. Otherwise, proceed to change it
             1. Make a DEEP copy of the node (not a shallow one)
             1. Save the value of that node's prop in a local tempvar
