@@ -1,6 +1,9 @@
 ## Task 01
 
-Possibly useful links: [Skip first line(field) in loop using CSV file?](https://stackoverflow.com/questions/14674275/skip-first-linefield-in-loop-using-csv-file) and [What is difference between shallow copy, deepcopy, and normal assignment operation?](https://stackoverflow.com/questions/17246693/what-is-the-difference-between-shallow-copy-deepcopy-and-normal-assignment-oper)
+Possibly useful links: 
+
+- [Skip first line(field) in loop using CSV file?](https://stackoverflow.com/questions/14674275/skip-first-linefield-in-loop-using-csv-file)
+- [What is difference between shallow copy, deepcopy, and normal assignment operation?](https://stackoverflow.com/questions/17246693/what-is-the-difference-between-shallow-copy-deepcopy-and-normal-assignment-oper)
 
 ### Task
 
@@ -89,7 +92,6 @@ Article,issue,strIssue
 Article,pages,strPages
 Article,date,strYear
 Article,doi,strDoi
-
 ```
 
 That first case is empty. In that case, just delete the prop.
@@ -116,6 +118,3 @@ Don't worry about this for the moment. It's just background info.
 The app mimics a graph database of objects called `nodes` connected to each other by relationships called `edges`. 
 
 The word "schema" just means "what the data looks like" or "what form the data takes". In this case, we invented the schema in `input.json` based on a good guess about what we would need for the app. As we prototyped, though, we realized the original schema needs to be changed. Since we don't want to lose the data we've created with the app, we want to convert the existing nodes from the old schema to the new schema. 
-
-
-
