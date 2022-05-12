@@ -98,7 +98,7 @@ That first case is empty. In that case, just delete the prop.
 
 ## Suggested Tasks
 
-1. Read in the csv file and programmatically ignore the header
+1. Read in `changes.csv` file and programmatically ignore the header
 1. Read in the `nodes.json` file
 1. For every row in the `changes.csv` file, 
     1. For every node with that label in `nodes.json`,
