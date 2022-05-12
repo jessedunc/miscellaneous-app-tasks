@@ -90,10 +90,15 @@ def colors(colorStr):
     return colorStr
 
 
+def addExistingDesc(newDesc):
+    print("addExistingDesc doesn't do anything yet")
+
+
 def generateJson():
     for row in reader:
 
         if (row["in_hells_canyon_book"]) == "TRUE":
+            newPlantNode = createArtworkNode(row)
             plants.append(
                 {"core_props":
                     {
@@ -147,12 +152,21 @@ def generateJson():
                         }
                     }
                 )
+
     findImages()
 
     with open ('plants.json', 'w') as jsonFile:
         json.dump(plants, jsonFile, indent=4)
 
+
+def buildBook(formatStr):
+    print(f"buildBook format: {formatStr}")   
+
+
 if __name__ == '__main__':
 
     generateJson()
+    buildBook('usletter')
+    #buildExhibit()
+
 
