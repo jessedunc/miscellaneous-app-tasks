@@ -1,0 +1,5407 @@
+[
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "f4c1cc9e9d72472d",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Artwork"
+        },
+        "label_props": {
+            "strMedium": "photo",
+            "relCreatedBy": [
+                "placeholder"
+            ],
+            "strLocation": "",
+            "strCaption": "",
+            "relTimestamp": [
+                "date20220501"
+            ],
+            "strHeightPx": "",
+            "strWidthPx": "",
+            "strOrientation": "",
+            "strPlant": "Allium sp."
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "f351195d526b416a",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Plant"
+        },
+        "label_props": {
+            "strCommonName": "Wild Onion / Nodding Onion",
+            "strFamily": "Amaryllidaceae",
+            "strLatinName": "Allium sp.",
+            "relDestBooks": [],
+            "relArtwork": [
+                "f4c1cc9e9d72472d",
+                "20a5c0ad73c14889"
+            ],
+            "strNativity": "Non-Native & Invasive",
+            "strColor": "PINK / WHITE",
+            "strDescription": "",
+            "relNotes": ""
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "20a5c0ad73c14889",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Artwork"
+        },
+        "label_props": {
+            "strMedium": "photo",
+            "relCreatedBy": [
+                "placeholder"
+            ],
+            "strLocation": "",
+            "strCaption": "",
+            "relTimestamp": [
+                "date20220501"
+            ],
+            "strHeightPx": "",
+            "strWidthPx": "",
+            "strOrientation": "",
+            "strPlant": "Allium sp."
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "9281a78ee5904552",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Artwork"
+        },
+        "label_props": {
+            "strMedium": "photo",
+            "relCreatedBy": [
+                "placeholder"
+            ],
+            "strLocation": "",
+            "strCaption": "",
+            "relTimestamp": [
+                "date20220501"
+            ],
+            "strHeightPx": "",
+            "strWidthPx": "",
+            "strOrientation": "",
+            "strPlant": "Toxicodendron radicans"
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "46d37cfda28d429c",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Plant"
+        },
+        "label_props": {
+            "strCommonName": "Poison Ivy",
+            "strFamily": "Anacardiaceae",
+            "strLatinName": "Toxicodendron radicans",
+            "relDestBooks": [],
+            "relArtwork": [
+                "9281a78ee5904552"
+            ],
+            "strNativity": "Non-Native & Invasive",
+            "strColor": "WHITE / GREEN",
+            "strDescription": "A smooth-stemmed, 1-4\u2019 tall shrub. Leaves absent in winter. Whitish-green flowers; greenish-yellow berries. Very common, especially along waterways. Can cause mild to very severe itching and/or blistering. If you only learn one Hells Canyon plant, learn this one well and avoid it! ",
+            "relNotes": ""
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "c9792f0e12314c1e",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Artwork"
+        },
+        "label_props": {
+            "strMedium": "photo",
+            "relCreatedBy": [
+                "placeholder"
+            ],
+            "strLocation": "",
+            "strCaption": "",
+            "relTimestamp": [
+                "date20220501"
+            ],
+            "strHeightPx": "",
+            "strWidthPx": "",
+            "strOrientation": "",
+            "strPlant": "Lomatium cous"
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "b6249193fa8447b6",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Plant"
+        },
+        "label_props": {
+            "strCommonName": "Cous Biscuitroot",
+            "strFamily": "Apiaceae",
+            "strLatinName": "Lomatium cous",
+            "relDestBooks": [],
+            "relArtwork": [
+                "c9792f0e12314c1e"
+            ],
+            "strNativity": "Non-Native & Invasive",
+            "strColor": "YELLOW",
+            "strDescription": "This very small plant blooms in early spring and grows 3-5\u201d tall. Its roots were dug by the Nez Perce, dried and pounded to a flour, and used to make a food that early white settlers thought looked like biscuits.",
+            "relNotes": ""
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "2941ae8b060944fb",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Artwork"
+        },
+        "label_props": {
+            "strMedium": "photo",
+            "relCreatedBy": [
+                "placeholder"
+            ],
+            "strLocation": "",
+            "strCaption": "",
+            "relTimestamp": [
+                "date20220501"
+            ],
+            "strHeightPx": "",
+            "strWidthPx": "",
+            "strOrientation": "",
+            "strPlant": "Lomatium grayii"
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "457652107a754dd5",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Plant"
+        },
+        "label_props": {
+            "strCommonName": "Gray\u2019s Biscuitroot",
+            "strFamily": "Apiaceae",
+            "strLatinName": "Lomatium grayii",
+            "relDestBooks": [],
+            "relArtwork": [
+                "2941ae8b060944fb"
+            ],
+            "strNativity": "Non-Native & Invasive",
+            "strColor": "YELLOW",
+            "strDescription": "This large biscuitroot has finely-dissected, gray-green leaves.",
+            "relNotes": ""
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "b6b32bf146524670",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Artwork"
+        },
+        "label_props": {
+            "strMedium": "photo",
+            "relCreatedBy": [
+                "placeholder"
+            ],
+            "strLocation": "",
+            "strCaption": "",
+            "relTimestamp": [
+                "date20220501"
+            ],
+            "strHeightPx": "",
+            "strWidthPx": "",
+            "strOrientation": "",
+            "strPlant": "Perideridia sp."
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "3f9b61f337e6466f",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Plant"
+        },
+        "label_props": {
+            "strCommonName": "Yampah",
+            "strFamily": "Apiaceae",
+            "strLatinName": "Perideridia sp.",
+            "relDestBooks": [],
+            "relArtwork": [
+                "b6b32bf146524670"
+            ],
+            "strNativity": "Non-Native & Invasive",
+            "strColor": "WHITE",
+            "strDescription": "Blooms in early summer in dry, open areas. Roots used by Nez Perce for food. ",
+            "relNotes": ""
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "72479b7ede134788",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Artwork"
+        },
+        "label_props": {
+            "strMedium": "photo",
+            "relCreatedBy": [
+                "placeholder"
+            ],
+            "strLocation": "",
+            "strCaption": "",
+            "relTimestamp": [
+                "date20220501"
+            ],
+            "strHeightPx": "",
+            "strWidthPx": "",
+            "strOrientation": "",
+            "strPlant": "Asclepias speciosa"
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "66ce66a03a044d3f",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Plant"
+        },
+        "label_props": {
+            "strCommonName": "Showy Milkweed",
+            "strFamily": "Apocynaceae",
+            "strLatinName": "Asclepias speciosa",
+            "relDestBooks": [],
+            "relArtwork": [
+                "72479b7ede134788",
+                "70f376e834f64d7e"
+            ],
+            "strNativity": "Non-Native & Invasive",
+            "strColor": "WHITE",
+            "strDescription": "This host plant for monarch caterpillars blooms in summer. Milky sap. ",
+            "relNotes": ""
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "70f376e834f64d7e",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Artwork"
+        },
+        "label_props": {
+            "strMedium": "photo",
+            "relCreatedBy": [
+                "placeholder"
+            ],
+            "strLocation": "",
+            "strCaption": "",
+            "relTimestamp": [
+                "date20220501"
+            ],
+            "strHeightPx": "",
+            "strWidthPx": "",
+            "strOrientation": "",
+            "strPlant": "Asclepias speciosa"
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "19d8a0b99cb14e3b",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Artwork"
+        },
+        "label_props": {
+            "strMedium": "photo",
+            "relCreatedBy": [
+                "placeholder"
+            ],
+            "strLocation": "",
+            "strCaption": "",
+            "relTimestamp": [
+                "date20220501"
+            ],
+            "strHeightPx": "",
+            "strWidthPx": "",
+            "strOrientation": "",
+            "strPlant": "Camassia cusickii"
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "3a1123b1f9424c1d",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Plant"
+        },
+        "label_props": {
+            "strCommonName": "Cusick\u2019s Camas",
+            "strFamily": "Asparagaceae",
+            "strLatinName": "Camassia cusickii",
+            "relDestBooks": [],
+            "relArtwork": [
+                "19d8a0b99cb14e3b"
+            ],
+            "strNativity": "Non-Native & Invasive",
+            "strColor": "PURPLE",
+            "strDescription": "This 15-24\u201d tall camas especially likes the rocky hillsides along the Hells Canyon scenic byway drive. ",
+            "relNotes": ""
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "2c45db3c3401472e",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Artwork"
+        },
+        "label_props": {
+            "strMedium": "photo",
+            "relCreatedBy": [
+                "placeholder"
+            ],
+            "strLocation": "",
+            "strCaption": "",
+            "relTimestamp": [
+                "date20220501"
+            ],
+            "strHeightPx": "",
+            "strWidthPx": "",
+            "strOrientation": "",
+            "strPlant": "Camassia quamash"
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "2d2698b85592406b",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Plant"
+        },
+        "label_props": {
+            "strCommonName": "Common Camas",
+            "strFamily": "Asparagaceae",
+            "strLatinName": "Camassia quamash",
+            "relDestBooks": [],
+            "relArtwork": [
+                "2c45db3c3401472e"
+            ],
+            "strNativity": "Non-Native & Invasive",
+            "strColor": "PURPLE",
+            "strDescription": "This much-smaller cousin of Cusick\u2019s camas grows only 10-12\u201d tall in wet meadows. It was one of the primary roots gathered for food by the Nez Perce.",
+            "relNotes": ""
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "5a48d86b661b4822",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Artwork"
+        },
+        "label_props": {
+            "strMedium": "photo",
+            "relCreatedBy": [
+                "placeholder"
+            ],
+            "strLocation": "",
+            "strCaption": "",
+            "relTimestamp": [
+                "date20220501"
+            ],
+            "strHeightPx": "",
+            "strWidthPx": "",
+            "strOrientation": "",
+            "strPlant": "Tritelia grandiflora"
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "fda479049e2747d1",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Plant"
+        },
+        "label_props": {
+            "strCommonName": "Blue Dicks / Brodiaea",
+            "strFamily": "Asparagaceae",
+            "strLatinName": "Tritelia grandiflora",
+            "relDestBooks": [],
+            "relArtwork": [
+                "5a48d86b661b4822"
+            ],
+            "strNativity": "Non-Native & Invasive",
+            "strColor": "PURPLE",
+            "strDescription": "Distinctive ball-shaped flower cluster at the top of a single, leafless stem. 12-20\u201d tall. ",
+            "relNotes": ""
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "8f6dc5cb247c4b05",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Artwork"
+        },
+        "label_props": {
+            "strMedium": "photo",
+            "relCreatedBy": [
+                "placeholder"
+            ],
+            "strLocation": "",
+            "strCaption": "",
+            "relTimestamp": [
+                "date20220501"
+            ],
+            "strHeightPx": "",
+            "strWidthPx": "",
+            "strOrientation": "",
+            "strPlant": "Achillea millefolium"
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "8618fe323815498a",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Plant"
+        },
+        "label_props": {
+            "strCommonName": "Yarrow",
+            "strFamily": "Asteraceae",
+            "strLatinName": "Achillea millefolium",
+            "relDestBooks": [],
+            "relArtwork": [
+                "8f6dc5cb247c4b05"
+            ],
+            "strNativity": "Non-Native & Invasive",
+            "strColor": "WHITE",
+            "strDescription": "Blooms in summer. Used medicinally by the Nez Perce and by settlers.",
+            "relNotes": ""
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "1437364752364b51",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Artwork"
+        },
+        "label_props": {
+            "strMedium": "photo",
+            "relCreatedBy": [
+                "placeholder"
+            ],
+            "strLocation": "",
+            "strCaption": "",
+            "relTimestamp": [
+                "date20220501"
+            ],
+            "strHeightPx": "",
+            "strWidthPx": "",
+            "strOrientation": "",
+            "strPlant": "Balsamorhiza incana"
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "98749896206e4050",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Plant"
+        },
+        "label_props": {
+            "strCommonName": "Hoary\u2019s Balsamroot",
+            "strFamily": "Asteraceae",
+            "strLatinName": "Balsamorhiza incana",
+            "relDestBooks": [],
+            "relArtwork": [
+                "1437364752364b51"
+            ],
+            "strNativity": "Non-Native & Invasive",
+            "strColor": "YELLOW",
+            "strDescription": "Spring-summer bloom. Note the very jagged leaves. Hybridizes with d. sagittata. Seeds used as food by Nez Perce. ",
+            "relNotes": ""
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "d85a98c2301b4182",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Artwork"
+        },
+        "label_props": {
+            "strMedium": "photo",
+            "relCreatedBy": [
+                "placeholder"
+            ],
+            "strLocation": "",
+            "strCaption": "",
+            "relTimestamp": [
+                "date20220501"
+            ],
+            "strHeightPx": "",
+            "strWidthPx": "",
+            "strOrientation": "",
+            "strPlant": "Balsamorhiza sagittata"
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "6153dcd9b3324912",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Plant"
+        },
+        "label_props": {
+            "strCommonName": "Arrowleaf Balsamroot",
+            "strFamily": "Asteraceae",
+            "strLatinName": "Balsamorhiza sagittata",
+            "relDestBooks": [],
+            "relArtwork": [
+                "d85a98c2301b4182"
+            ],
+            "strNativity": "Non-Native & Invasive",
+            "strColor": "YELLOW",
+            "strDescription": "Spring-summer bloom. Hybridizes with d. hookeri. [?] Leaves have smooth margins. Seeds used as food by Nez Perce. ",
+            "relNotes": ""
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "25d497ba900f460c",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Artwork"
+        },
+        "label_props": {
+            "strMedium": "photo",
+            "relCreatedBy": [
+                "placeholder"
+            ],
+            "strLocation": "",
+            "strCaption": "",
+            "relTimestamp": [
+                "date20220501"
+            ],
+            "strHeightPx": "",
+            "strWidthPx": "",
+            "strOrientation": "",
+            "strPlant": "Centaurea maculosa"
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "9674ae520327461f",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Plant"
+        },
+        "label_props": {
+            "strCommonName": "Spotted Knapweed",
+            "strFamily": "Asteraceae",
+            "strLatinName": "Centaurea maculosa",
+            "relDestBooks": [],
+            "relArtwork": [
+                "25d497ba900f460c"
+            ],
+            "strNativity": "Non-Native & Invasive",
+            "strColor": "PINK / WHITE",
+            "strDescription": "Common invasive biennial weed. There are many similarly-looking species. ",
+            "relNotes": ""
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "2da2ec1fccf64a9a",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Artwork"
+        },
+        "label_props": {
+            "strMedium": "photo",
+            "relCreatedBy": [
+                "placeholder"
+            ],
+            "strLocation": "",
+            "strCaption": "",
+            "relTimestamp": [
+                "date20220501"
+            ],
+            "strHeightPx": "",
+            "strWidthPx": "",
+            "strOrientation": "",
+            "strPlant": "Chaenactis douglasii"
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "b9190acdaebd4ba8",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Plant"
+        },
+        "label_props": {
+            "strCommonName": "Chaenactis / False Yarrow",
+            "strFamily": "Asteraceae",
+            "strLatinName": "Chaenactis douglasii",
+            "relDestBooks": [],
+            "relArtwork": [
+                "2da2ec1fccf64a9a"
+            ],
+            "strNativity": "Non-Native & Invasive",
+            "strColor": "PINK",
+            "strDescription": "Distinctive gray-green foliage.",
+            "relNotes": ""
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "2e1b3790c417460a",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Artwork"
+        },
+        "label_props": {
+            "strMedium": "photo",
+            "relCreatedBy": [
+                "placeholder"
+            ],
+            "strLocation": "",
+            "strCaption": "",
+            "relTimestamp": [
+                "date20220501"
+            ],
+            "strHeightPx": "",
+            "strWidthPx": "",
+            "strOrientation": "",
+            "strPlant": "Cirsiam vulgare"
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "76662a75a4544ae9",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Plant"
+        },
+        "label_props": {
+            "strCommonName": "Bull Thistle",
+            "strFamily": "Asteraceae",
+            "strLatinName": "Cirsiam vulgare",
+            "relDestBooks": [],
+            "relArtwork": [
+                "2e1b3790c417460a"
+            ],
+            "strNativity": "Non-Native & Invasive",
+            "strColor": "PURPLE",
+            "strDescription": "Fairly common invasive biennial thistle. Can grow up to 4\u2019 tall. ",
+            "relNotes": ""
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "1b3359caaadf49b1",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Artwork"
+        },
+        "label_props": {
+            "strMedium": "photo",
+            "relCreatedBy": [
+                "placeholder"
+            ],
+            "strLocation": "",
+            "strCaption": "",
+            "relTimestamp": [
+                "date20220501"
+            ],
+            "strHeightPx": "",
+            "strWidthPx": "",
+            "strOrientation": "",
+            "strPlant": "Ericameria nauseosa"
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "335c6cf906404e18",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Plant"
+        },
+        "label_props": {
+            "strCommonName": "Common Rabbitbrush",
+            "strFamily": "Asteraceae",
+            "strLatinName": "Ericameria nauseosa",
+            "relDestBooks": [],
+            "relArtwork": [
+                "1b3359caaadf49b1"
+            ],
+            "strNativity": "Non-Native & Invasive",
+            "strColor": "YELLOW",
+            "strDescription": "Blooms late-summer to fall. Previously known as Chrysothamnos nauseosa. A common shrub, 2-4\u2019 tall.",
+            "relNotes": ""
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "3505c9cd2d304bea",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Artwork"
+        },
+        "label_props": {
+            "strMedium": "photo",
+            "relCreatedBy": [
+                "placeholder"
+            ],
+            "strLocation": "",
+            "strCaption": "",
+            "relTimestamp": [
+                "date20220501"
+            ],
+            "strHeightPx": "",
+            "strWidthPx": "",
+            "strOrientation": "",
+            "strPlant": "Erigeron sp."
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "2ef7104aed8e40d8",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Plant"
+        },
+        "label_props": {
+            "strCommonName": "Fleabane Daisy",
+            "strFamily": "Asteraceae",
+            "strLatinName": "Erigeron sp.",
+            "relDestBooks": [],
+            "relArtwork": [
+                "3505c9cd2d304bea"
+            ],
+            "strNativity": "Non-Native & Invasive",
+            "strColor": "PURPLE / YELLOW",
+            "strDescription": "A huge and variable genus; this is one of many species found in Hells Canyon.",
+            "relNotes": ""
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "c82ddad3337d4801",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Artwork"
+        },
+        "label_props": {
+            "strMedium": "photo",
+            "relCreatedBy": [
+                "placeholder"
+            ],
+            "strLocation": "",
+            "strCaption": "",
+            "relTimestamp": [
+                "date20220501"
+            ],
+            "strHeightPx": "",
+            "strWidthPx": "",
+            "strOrientation": "",
+            "strPlant": "Eriophyllum lanatum"
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "10801d1d33674e5a",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Plant"
+        },
+        "label_props": {
+            "strCommonName": "Oregon Sunshine / Woolly Yellow Daisy",
+            "strFamily": "Asteraceae",
+            "strLatinName": "Eriophyllum lanatum",
+            "relDestBooks": [],
+            "relArtwork": [
+                "c82ddad3337d4801"
+            ],
+            "strNativity": "Non-Native & Invasive",
+            "strColor": "YELLOW",
+            "strDescription": "Spring-summer bloom. Ray-flowers are orangish towards central disc, paler yellow on ends. ",
+            "relNotes": ""
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "cfeb4d0a2c7549f6",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Artwork"
+        },
+        "label_props": {
+            "strMedium": "photo",
+            "relCreatedBy": [
+                "placeholder"
+            ],
+            "strLocation": "",
+            "strCaption": "",
+            "relTimestamp": [
+                "date20220501"
+            ],
+            "strHeightPx": "",
+            "strWidthPx": "",
+            "strOrientation": "",
+            "strPlant": "Gaillardia artistata"
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "e8aa7680f7c94da7",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Plant"
+        },
+        "label_props": {
+            "strCommonName": "Gaillardia / Blanket Flower",
+            "strFamily": "Asteraceae",
+            "strLatinName": "Gaillardia artistata",
+            "relDestBooks": [],
+            "relArtwork": [
+                "cfeb4d0a2c7549f6"
+            ],
+            "strNativity": "Non-Native & Invasive",
+            "strColor": "YELLOW",
+            "strDescription": "Yellow ray flowers may be reddish towards central disc. ",
+            "relNotes": ""
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "0842b85fd6144e02",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Artwork"
+        },
+        "label_props": {
+            "strMedium": "photo",
+            "relCreatedBy": [
+                "placeholder"
+            ],
+            "strLocation": "",
+            "strCaption": "",
+            "relTimestamp": [
+                "date20220501"
+            ],
+            "strHeightPx": "",
+            "strWidthPx": "",
+            "strOrientation": "",
+            "strPlant": "Grindelia sp."
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "93d9feee563c4840",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Plant"
+        },
+        "label_props": {
+            "strCommonName": "Gumweed",
+            "strFamily": "Asteraceae",
+            "strLatinName": "Grindelia sp.",
+            "relDestBooks": [],
+            "relArtwork": [
+                "0842b85fd6144e02"
+            ],
+            "strNativity": "Non-Native & Invasive",
+            "strColor": "YELLOW",
+            "strDescription": "Base of flower very sticky with sap. ",
+            "relNotes": ""
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "38f54d9280d2416a",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Artwork"
+        },
+        "label_props": {
+            "strMedium": "photo",
+            "relCreatedBy": [
+                "placeholder"
+            ],
+            "strLocation": "",
+            "strCaption": "",
+            "relTimestamp": [
+                "date20220501"
+            ],
+            "strHeightPx": "",
+            "strWidthPx": "",
+            "strOrientation": "",
+            "strPlant": "Haplopappus carthamoides"
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "a1b60b8454fd4486",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Plant"
+        },
+        "label_props": {
+            "strCommonName": "Golden Weed",
+            "strFamily": "Asteraceae",
+            "strLatinName": "Haplopappus carthamoides",
+            "relDestBooks": [],
+            "relArtwork": [
+                "38f54d9280d2416a"
+            ],
+            "strNativity": "Non-Native & Invasive",
+            "strColor": "YELLOW",
+            "strDescription": "Pale yellow bloom.",
+            "relNotes": ""
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "df38ea023faa4fb6",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Artwork"
+        },
+        "label_props": {
+            "strMedium": "photo",
+            "relCreatedBy": [
+                "placeholder"
+            ],
+            "strLocation": "",
+            "strCaption": "",
+            "relTimestamp": [
+                "date20220501"
+            ],
+            "strHeightPx": "",
+            "strWidthPx": "",
+            "strOrientation": "",
+            "strPlant": "Helianthella uniflora"
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "9792ce16e5aa410d",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Plant"
+        },
+        "label_props": {
+            "strCommonName": "Little Sunflower",
+            "strFamily": "Asteraceae",
+            "strLatinName": "Helianthella uniflora",
+            "relDestBooks": [],
+            "relArtwork": [
+                "df38ea023faa4fb6"
+            ],
+            "strNativity": "Non-Native & Invasive",
+            "strColor": "YELLOW",
+            "strDescription": "Another of many sunflower look-alikes.",
+            "relNotes": ""
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "6cc9b25d13f54aa0",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Artwork"
+        },
+        "label_props": {
+            "strMedium": "photo",
+            "relCreatedBy": [
+                "placeholder"
+            ],
+            "strLocation": "",
+            "strCaption": "",
+            "relTimestamp": [
+                "date20220501"
+            ],
+            "strHeightPx": "",
+            "strWidthPx": "",
+            "strOrientation": "",
+            "strPlant": "Helianthus annuus"
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "08345870c01b4ad7",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Plant"
+        },
+        "label_props": {
+            "strCommonName": "Western Sunflower",
+            "strFamily": "Asteraceae",
+            "strLatinName": "Helianthus annuus",
+            "relDestBooks": [],
+            "relArtwork": [
+                "6cc9b25d13f54aa0"
+            ],
+            "strNativity": "Non-Native & Invasive",
+            "strColor": "YELLOW",
+            "strDescription": "Flower heads face the sun throughout the day. Grows up to 5\u2019 tall. ",
+            "relNotes": ""
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "bfe0ef84b16441ab",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Artwork"
+        },
+        "label_props": {
+            "strMedium": "photo",
+            "relCreatedBy": [
+                "placeholder"
+            ],
+            "strLocation": "",
+            "strCaption": "",
+            "relTimestamp": [
+                "date20220501"
+            ],
+            "strHeightPx": "",
+            "strWidthPx": "",
+            "strOrientation": "",
+            "strPlant": "Liatris punctata"
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "7ce58c6843744be1",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Plant"
+        },
+        "label_props": {
+            "strCommonName": "Blazing Star / Gayfeather",
+            "strFamily": "Asteraceae",
+            "strLatinName": "Liatris punctata",
+            "relDestBooks": [],
+            "relArtwork": [
+                "bfe0ef84b16441ab"
+            ],
+            "strNativity": "Non-Native & Invasive",
+            "strColor": "YELLOW",
+            "strDescription": "Late-summer bloom",
+            "relNotes": ""
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "231fac7dfc9f42b5",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Artwork"
+        },
+        "label_props": {
+            "strMedium": "photo",
+            "relCreatedBy": [
+                "placeholder"
+            ],
+            "strLocation": "",
+            "strCaption": "",
+            "relTimestamp": [
+                "date20220501"
+            ],
+            "strHeightPx": "",
+            "strWidthPx": "",
+            "strOrientation": "",
+            "strPlant": "Matricaria ??"
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "45fcf3d35b3b43b9",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Plant"
+        },
+        "label_props": {
+            "strCommonName": "Dog Fennel / Pineapple Weed",
+            "strFamily": "Asteraceae",
+            "strLatinName": "Matricaria ??",
+            "relDestBooks": [],
+            "relArtwork": [
+                "231fac7dfc9f42b5"
+            ],
+            "strNativity": "Native",
+            "strColor": "WHITE",
+            "strDescription": "Usuaully low-growing in disturbed areas. Plant smells like pineapple when crushed.",
+            "relNotes": ""
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "e12b305da99e46e2",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Artwork"
+        },
+        "label_props": {
+            "strMedium": "photo",
+            "relCreatedBy": [
+                "placeholder"
+            ],
+            "strLocation": "",
+            "strCaption": "",
+            "relTimestamp": [
+                "date20220501"
+            ],
+            "strHeightPx": "",
+            "strWidthPx": "",
+            "strOrientation": "",
+            "strPlant": "Microseris sp."
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "d20a571a8fbd488c",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Plant"
+        },
+        "label_props": {
+            "strCommonName": "False Dandelion",
+            "strFamily": "Asteraceae",
+            "strLatinName": "Microseris sp.",
+            "relDestBooks": [],
+            "relArtwork": [
+                "e12b305da99e46e2"
+            ],
+            "strNativity": "Non-Native & Invasive",
+            "strColor": "YELLOW",
+            "strDescription": "Told from true dandelion by its long, skinny leaves. ",
+            "relNotes": ""
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "29ec75d60f934b04",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Artwork"
+        },
+        "label_props": {
+            "strMedium": "photo",
+            "relCreatedBy": [
+                "placeholder"
+            ],
+            "strLocation": "",
+            "strCaption": "",
+            "relTimestamp": [
+                "date20220501"
+            ],
+            "strHeightPx": "",
+            "strWidthPx": "",
+            "strOrientation": "",
+            "strPlant": "Senecio serra"
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "b9192ce12f8241c4",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Plant"
+        },
+        "label_props": {
+            "strCommonName": "Groundsel / Butterweed",
+            "strFamily": "Asteraceae",
+            "strLatinName": "Senecio serra",
+            "relDestBooks": [],
+            "relArtwork": [
+                "29ec75d60f934b04"
+            ],
+            "strNativity": "Non-Native & Invasive",
+            "strColor": "YELLOW",
+            "strDescription": "Toxic to livestock. ",
+            "relNotes": ""
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "294081574fd34737",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Artwork"
+        },
+        "label_props": {
+            "strMedium": "photo",
+            "relCreatedBy": [
+                "placeholder"
+            ],
+            "strLocation": "",
+            "strCaption": "",
+            "relTimestamp": [
+                "date20220501"
+            ],
+            "strHeightPx": "",
+            "strWidthPx": "",
+            "strOrientation": "",
+            "strPlant": "Tragopogon dubius"
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "8304cc44d24b44a8",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Plant"
+        },
+        "label_props": {
+            "strCommonName": "Goatsbeard / Salsify",
+            "strFamily": "Asteraceae",
+            "strLatinName": "Tragopogon dubius",
+            "relDestBooks": [],
+            "relArtwork": [
+                "294081574fd34737",
+                "699d7503215c428d"
+            ],
+            "strNativity": "Non-Native & Invasive",
+            "strColor": "YELLOW",
+            "strDescription": "",
+            "relNotes": ""
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "699d7503215c428d",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Artwork"
+        },
+        "label_props": {
+            "strMedium": "photo",
+            "relCreatedBy": [
+                "placeholder"
+            ],
+            "strLocation": "",
+            "strCaption": "",
+            "relTimestamp": [
+                "date20220501"
+            ],
+            "strHeightPx": "",
+            "strWidthPx": "",
+            "strOrientation": "",
+            "strPlant": "Tragopogon dubius"
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "80124badd4664035",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Artwork"
+        },
+        "label_props": {
+            "strMedium": "photo",
+            "relCreatedBy": [
+                "placeholder"
+            ],
+            "strLocation": "",
+            "strCaption": "",
+            "relTimestamp": [
+                "date20220501"
+            ],
+            "strHeightPx": "",
+            "strWidthPx": "",
+            "strOrientation": "",
+            "strPlant": "Berberis repens"
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "fdbe394c81704e7e",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Plant"
+        },
+        "label_props": {
+            "strCommonName": "Oregon Grape",
+            "strFamily": "Berberaceae",
+            "strLatinName": "Berberis repens",
+            "relDestBooks": [],
+            "relArtwork": [
+                "80124badd4664035"
+            ],
+            "strNativity": "Non-Native & Invasive",
+            "strColor": "YELLOW",
+            "strDescription": "Somewhat evergreen; many leaves retained through winter. Yellow flowers and berries.",
+            "relNotes": ""
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "93facc8b0cde402a",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Artwork"
+        },
+        "label_props": {
+            "strMedium": "photo",
+            "relCreatedBy": [
+                "placeholder"
+            ],
+            "strLocation": "",
+            "strCaption": "",
+            "relTimestamp": [
+                "date20220501"
+            ],
+            "strHeightPx": "",
+            "strWidthPx": "",
+            "strOrientation": "",
+            "strPlant": "Amsinckia menziesii"
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "32cb6e294dc14635",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Plant"
+        },
+        "label_props": {
+            "strCommonName": "Fiddleneck",
+            "strFamily": "Boraginaceae",
+            "strLatinName": "Amsinckia menziesii",
+            "relDestBooks": [],
+            "relArtwork": [
+                "93facc8b0cde402a"
+            ],
+            "strNativity": "Non-Native & Invasive",
+            "strColor": "YELLOW",
+            "strDescription": "Flowers inconspicuous and coiled like a scorpion\u2019s tail.",
+            "relNotes": ""
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "e194de9886a84bbe",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Artwork"
+        },
+        "label_props": {
+            "strMedium": "photo",
+            "relCreatedBy": [
+                "placeholder"
+            ],
+            "strLocation": "",
+            "strCaption": "",
+            "relTimestamp": [
+                "date20220501"
+            ],
+            "strHeightPx": "",
+            "strWidthPx": "",
+            "strOrientation": "",
+            "strPlant": "Anchusa officianalis"
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "26a9df0aaf174aec",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Plant"
+        },
+        "label_props": {
+            "strCommonName": "Common Bugloss / Blueweed",
+            "strFamily": "Boraginaceae",
+            "strLatinName": "Anchusa officianalis",
+            "relDestBooks": [],
+            "relArtwork": [
+                "e194de9886a84bbe"
+            ],
+            "strNativity": "Non-Native & Invasive",
+            "strColor": "BLUE",
+            "strDescription": "Highly invasive weed, especially in moist areas. Flower is deep blue. ",
+            "relNotes": ""
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "7fef94b94a92473a",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Artwork"
+        },
+        "label_props": {
+            "strMedium": "photo",
+            "relCreatedBy": [
+                "placeholder"
+            ],
+            "strLocation": "",
+            "strCaption": "",
+            "relTimestamp": [
+                "date20220501"
+            ],
+            "strHeightPx": "",
+            "strWidthPx": "",
+            "strOrientation": "",
+            "strPlant": "Cynoglossum officinale"
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "2f474823bc354054",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Plant"
+        },
+        "label_props": {
+            "strCommonName": "Houndstongue / Beggar Ticks",
+            "strFamily": "Boraginaceae",
+            "strLatinName": "Cynoglossum officinale",
+            "relDestBooks": [],
+            "relArtwork": [
+                "7fef94b94a92473a"
+            ],
+            "strNativity": "Non-Native & Invasive",
+            "strColor": "PINKISH / MAGENTA",
+            "strDescription": "Invasive biennial weed. First year plant is a rosette of foliage with no bloom. Second year plant sends up a blooming stalk with purple-red flowers that bees love. Flowers ripen into velcro-like stickers. If you don\u2019t find this one, your dog will!",
+            "relNotes": ""
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "9610227113ca44e3",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Artwork"
+        },
+        "label_props": {
+            "strMedium": "photo",
+            "relCreatedBy": [
+                "placeholder"
+            ],
+            "strLocation": "",
+            "strCaption": "",
+            "relTimestamp": [
+                "date20220501"
+            ],
+            "strHeightPx": "",
+            "strWidthPx": "",
+            "strOrientation": "",
+            "strPlant": "Mertensia longifolia"
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "e41142b741204174",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Plant"
+        },
+        "label_props": {
+            "strCommonName": "Mountain Bluebell",
+            "strFamily": "Boraginaceae",
+            "strLatinName": "Mertensia longifolia",
+            "relDestBooks": [],
+            "relArtwork": [
+                "9610227113ca44e3"
+            ],
+            "strNativity": "Non-Native & Invasive",
+            "strColor": "BLUE",
+            "strDescription": "Blooms in late spring to early summer. Very blue, tubular flowers.",
+            "relNotes": ""
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "73a4e6ada46b46bd",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Artwork"
+        },
+        "label_props": {
+            "strMedium": "photo",
+            "relCreatedBy": [
+                "placeholder"
+            ],
+            "strLocation": "",
+            "strCaption": "",
+            "relTimestamp": [
+                "date20220501"
+            ],
+            "strHeightPx": "",
+            "strWidthPx": "",
+            "strOrientation": "",
+            "strPlant": "Draba sp."
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "34881580e7a54483",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Plant"
+        },
+        "label_props": {
+            "strCommonName": "Common Mustard / Whitlow Grass",
+            "strFamily": "Brassicaceae",
+            "strLatinName": "Draba sp.",
+            "relDestBooks": [],
+            "relArtwork": [
+                "73a4e6ada46b46bd"
+            ],
+            "strNativity": "Non-Native & Invasive",
+            "strColor": "WHITE",
+            "strDescription": "This very large genus includes both native and non-native plants ranging in height from 2-15\u201d. Many are small and not showy. ",
+            "relNotes": ""
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "c88c6bdf19db4a11",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Artwork"
+        },
+        "label_props": {
+            "strMedium": "photo",
+            "relCreatedBy": [
+                "placeholder"
+            ],
+            "strLocation": "",
+            "strCaption": "",
+            "relTimestamp": [
+                "date20220501"
+            ],
+            "strHeightPx": "",
+            "strWidthPx": "",
+            "strOrientation": "",
+            "strPlant": "Erysimum capitatum"
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "6d011a66827e4e11",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Plant"
+        },
+        "label_props": {
+            "strCommonName": "Wallflower",
+            "strFamily": "Brassicaceae",
+            "strLatinName": "Erysimum capitatum",
+            "relDestBooks": [],
+            "relArtwork": [
+                "c88c6bdf19db4a11"
+            ],
+            "strNativity": "Non-Native & Invasive",
+            "strColor": "YELLOW",
+            "strDescription": "Yellow, sweet-smelling blooms appear in late spring and early summer. ",
+            "relNotes": ""
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "7635f9ce404c440a",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Artwork"
+        },
+        "label_props": {
+            "strMedium": "photo",
+            "relCreatedBy": [
+                "placeholder"
+            ],
+            "strLocation": "",
+            "strCaption": "",
+            "relTimestamp": [
+                "date20220501"
+            ],
+            "strHeightPx": "",
+            "strWidthPx": "",
+            "strOrientation": "",
+            "strPlant": "Coryptantha missouriensis"
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "a0d3c254702849a4",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Plant"
+        },
+        "label_props": {
+            "strCommonName": "Ball Cactus",
+            "strFamily": "Cactaceae",
+            "strLatinName": "Coryptantha missouriensis",
+            "relDestBooks": [],
+            "relArtwork": [
+                "7635f9ce404c440a"
+            ],
+            "strNativity": "Non-Native & Invasive",
+            "strColor": "PINK",
+            "strDescription": "A rare cactus in Hells Canyon uplands. Very compact and low to the ground. ",
+            "relNotes": ""
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "9605bc2f31cc4c1e",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Artwork"
+        },
+        "label_props": {
+            "strMedium": "photo",
+            "relCreatedBy": [
+                "placeholder"
+            ],
+            "strLocation": "",
+            "strCaption": "",
+            "relTimestamp": [
+                "date20220501"
+            ],
+            "strHeightPx": "",
+            "strWidthPx": "",
+            "strOrientation": "",
+            "strPlant": "Opuntia sp."
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "f4154dd29d704ed6",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Plant"
+        },
+        "label_props": {
+            "strCommonName": "Prickly Pear",
+            "strFamily": "Cactaceae",
+            "strLatinName": "Opuntia sp.",
+            "relDestBooks": [],
+            "relArtwork": [
+                "9605bc2f31cc4c1e",
+                "310cc1da58e5451d",
+                "e2d826f0166049fd",
+                "6ba148886edc4e12"
+            ],
+            "strNativity": "Non-Native & Invasive",
+            "strColor": "YELLOW",
+            "strDescription": "",
+            "relNotes": ""
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "310cc1da58e5451d",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Artwork"
+        },
+        "label_props": {
+            "strMedium": "photo",
+            "relCreatedBy": [
+                "placeholder"
+            ],
+            "strLocation": "",
+            "strCaption": "",
+            "relTimestamp": [
+                "date20220501"
+            ],
+            "strHeightPx": "",
+            "strWidthPx": "",
+            "strOrientation": "",
+            "strPlant": "Opuntia sp."
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "e2d826f0166049fd",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Artwork"
+        },
+        "label_props": {
+            "strMedium": "photo",
+            "relCreatedBy": [
+                "placeholder"
+            ],
+            "strLocation": "",
+            "strCaption": "",
+            "relTimestamp": [
+                "date20220501"
+            ],
+            "strHeightPx": "",
+            "strWidthPx": "",
+            "strOrientation": "",
+            "strPlant": "Opuntia sp."
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "6ba148886edc4e12",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Artwork"
+        },
+        "label_props": {
+            "strMedium": "photo",
+            "relCreatedBy": [
+                "placeholder"
+            ],
+            "strLocation": "",
+            "strCaption": "",
+            "relTimestamp": [
+                "date20220501"
+            ],
+            "strHeightPx": "",
+            "strWidthPx": "",
+            "strOrientation": "",
+            "strPlant": "Opuntia sp."
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "65b64610389e4eda",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Artwork"
+        },
+        "label_props": {
+            "strMedium": "photo",
+            "relCreatedBy": [
+                "placeholder"
+            ],
+            "strLocation": "",
+            "strCaption": "",
+            "relTimestamp": [
+                "date20220501"
+            ],
+            "strHeightPx": "",
+            "strWidthPx": "",
+            "strOrientation": "",
+            "strPlant": "Glossopetalon spinescens"
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "44e4a3fb9fc14007",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Plant"
+        },
+        "label_props": {
+            "strCommonName": "Snake River Greasewood / Spiny Greenbush",
+            "strFamily": "Crossosomataceae",
+            "strLatinName": "Glossopetalon spinescens",
+            "relDestBooks": [],
+            "relArtwork": [
+                "65b64610389e4eda"
+            ],
+            "strNativity": "Non-Native & Invasive",
+            "strColor": "WHITE",
+            "strDescription": "Distinctive green-stemmed shrub with tiny leaves. Stands 1-3\u2019 tall. ",
+            "relNotes": ""
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "ca41ec532d97420c",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Artwork"
+        },
+        "label_props": {
+            "strMedium": "photo",
+            "relCreatedBy": [
+                "placeholder"
+            ],
+            "strLocation": "",
+            "strCaption": "",
+            "relTimestamp": [
+                "date20220501"
+            ],
+            "strHeightPx": "",
+            "strWidthPx": "",
+            "strOrientation": "",
+            "strPlant": "Cerastium arvense"
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "7d640d6a4c9540cd",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Plant"
+        },
+        "label_props": {
+            "strCommonName": "Chickweed",
+            "strFamily": "Caryophyllaceae",
+            "strLatinName": "Cerastium arvense",
+            "relDestBooks": [],
+            "relArtwork": [
+                "ca41ec532d97420c"
+            ],
+            "strNativity": "Non-Native & Invasive",
+            "strColor": "WHITE",
+            "strDescription": "Fairly conspicuous white flowers. ",
+            "relNotes": ""
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "30e60a18fe44445f",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Artwork"
+        },
+        "label_props": {
+            "strMedium": "photo",
+            "relCreatedBy": [
+                "placeholder"
+            ],
+            "strLocation": "",
+            "strCaption": "",
+            "relTimestamp": [
+                "date20220501"
+            ],
+            "strHeightPx": "",
+            "strWidthPx": "",
+            "strOrientation": "",
+            "strPlant": "Eremogone aculeata"
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "67375b41fabb4952",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Plant"
+        },
+        "label_props": {
+            "strCommonName": "Needle-leaf Sandwort",
+            "strFamily": "Caryophyllaceae",
+            "strLatinName": "Eremogone aculeata",
+            "relDestBooks": [],
+            "relArtwork": [
+                "30e60a18fe44445f"
+            ],
+            "strNativity": "Non-Native & Invasive",
+            "strColor": "WHITE",
+            "strDescription": "Short, cushiony clump of tiny white blooms. Likes dry, gravelly soil.",
+            "relNotes": ""
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "d167c6fae12a42bd",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Artwork"
+        },
+        "label_props": {
+            "strMedium": "photo",
+            "relCreatedBy": [
+                "placeholder"
+            ],
+            "strLocation": "",
+            "strCaption": "",
+            "relTimestamp": [
+                "date20220501"
+            ],
+            "strHeightPx": "",
+            "strWidthPx": "",
+            "strOrientation": "",
+            "strPlant": "Silene latifolia"
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "5b93e00f89ec4354",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Plant"
+        },
+        "label_props": {
+            "strCommonName": "Campion",
+            "strFamily": "Caryophyllaceae",
+            "strLatinName": "Silene latifolia",
+            "relDestBooks": [],
+            "relArtwork": [
+                "d167c6fae12a42bd"
+            ],
+            "strNativity": "Non-Native & Invasive",
+            "strColor": "WHITE",
+            "strDescription": "Showy white blossoms. Plant is 1-2\u2019 tall. ",
+            "relNotes": ""
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "656a48483b944ab0",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Artwork"
+        },
+        "label_props": {
+            "strMedium": "photo",
+            "relCreatedBy": [
+                "placeholder"
+            ],
+            "strLocation": "",
+            "strCaption": "",
+            "relTimestamp": [
+                "date20220501"
+            ],
+            "strHeightPx": "",
+            "strWidthPx": "",
+            "strOrientation": "",
+            "strPlant": "Convolvulus arvensis"
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "fbe86cc6e1ab465f",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Plant"
+        },
+        "label_props": {
+            "strCommonName": "Bindweed",
+            "strFamily": "Convolvulaccae",
+            "strLatinName": "Convolvulus arvensis",
+            "relDestBooks": [],
+            "relArtwork": [
+                "656a48483b944ab0",
+                "11d89084dea54bbb"
+            ],
+            "strNativity": "Non-Native & Invasive",
+            "strColor": "WHITE TO PINKISH",
+            "strDescription": "",
+            "relNotes": ""
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "11d89084dea54bbb",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Artwork"
+        },
+        "label_props": {
+            "strMedium": "photo",
+            "relCreatedBy": [
+                "placeholder"
+            ],
+            "strLocation": "",
+            "strCaption": "",
+            "relTimestamp": [
+                "date20220501"
+            ],
+            "strHeightPx": "",
+            "strWidthPx": "",
+            "strOrientation": "",
+            "strPlant": "Convolvulus arvensis"
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "d2cbb35616124ecc",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Artwork"
+        },
+        "label_props": {
+            "strMedium": "photo",
+            "relCreatedBy": [
+                "placeholder"
+            ],
+            "strLocation": "",
+            "strCaption": "",
+            "relTimestamp": [
+                "date20220501"
+            ],
+            "strHeightPx": "",
+            "strWidthPx": "",
+            "strOrientation": "",
+            "strPlant": "Sedum stenopetalum"
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "00c0aee8d3914c3a",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Plant"
+        },
+        "label_props": {
+            "strCommonName": "Sharp-leaved Sedum / Stonecrop",
+            "strFamily": "Crassulariaceae",
+            "strLatinName": "Sedum stenopetalum",
+            "relDestBooks": [],
+            "relArtwork": [
+                "d2cbb35616124ecc"
+            ],
+            "strNativity": "Non-Native & Invasive",
+            "strColor": "YELLOW",
+            "strDescription": "Common in rocky, dry sites. Can also be found among rocks in mountains.",
+            "relNotes": ""
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "db611dc2036f4a84",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Artwork"
+        },
+        "label_props": {
+            "strMedium": "photo",
+            "relCreatedBy": [
+                "placeholder"
+            ],
+            "strLocation": "",
+            "strCaption": "",
+            "relTimestamp": [
+                "date20220501"
+            ],
+            "strHeightPx": "",
+            "strWidthPx": "",
+            "strOrientation": "",
+            "strPlant": "Dipsacus "
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "4f68c3f484c34e65",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Plant"
+        },
+        "label_props": {
+            "strCommonName": "Teasel",
+            "strFamily": "Dipsacaceae",
+            "strLatinName": "Dipsacus ",
+            "relDestBooks": [],
+            "relArtwork": [
+                "db611dc2036f4a84"
+            ],
+            "strNativity": "Non-Native & Invasive",
+            "strColor": "PURPLE",
+            "strDescription": "This photo shows both teasel and flannel mullein. Teasel is the tall plant to the right of center. It blooms purple and the head ripens to a spiny brown seedhead at the end of the stem.",
+            "relNotes": ""
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "256326f28d54447a",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Artwork"
+        },
+        "label_props": {
+            "strMedium": "photo",
+            "relCreatedBy": [
+                "placeholder"
+            ],
+            "strLocation": "",
+            "strCaption": "",
+            "relTimestamp": [
+                "date20220501"
+            ],
+            "strHeightPx": "",
+            "strWidthPx": "",
+            "strOrientation": "",
+            "strPlant": "Euphorbia esula"
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "0764e6999dc64388",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Plant"
+        },
+        "label_props": {
+            "strCommonName": "Leafy Spurge",
+            "strFamily": "Euphorbiaceae",
+            "strLatinName": "Euphorbia esula",
+            "relDestBooks": [],
+            "relArtwork": [
+                "256326f28d54447a"
+            ],
+            "strNativity": "Non-Native & Invasive",
+            "strColor": "YELLOW",
+            "strDescription": "Very invasive weed with yellow-green flowers and milky sap. Toxic to livestock. ",
+            "relNotes": ""
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "9cc90ae98505492a",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Artwork"
+        },
+        "label_props": {
+            "strMedium": "photo",
+            "relCreatedBy": [
+                "placeholder"
+            ],
+            "strLocation": "",
+            "strCaption": "",
+            "relTimestamp": [
+                "date20220501"
+            ],
+            "strHeightPx": "",
+            "strWidthPx": "",
+            "strOrientation": "",
+            "strPlant": "Lupinus sp."
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "7d2d78f6c309454c",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Plant"
+        },
+        "label_props": {
+            "strCommonName": "Lupine",
+            "strFamily": "Fabaceae",
+            "strLatinName": "Lupinus sp.",
+            "relDestBooks": [],
+            "relArtwork": [
+                "9cc90ae98505492a",
+                "c81af19da45447a7"
+            ],
+            "strNativity": "Non-Native & Invasive",
+            "strColor": "PURPLE",
+            "strDescription": "The palmately compound leaves help identify these plants, which consist of many different species in any different habitats. ",
+            "relNotes": ""
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "c81af19da45447a7",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Artwork"
+        },
+        "label_props": {
+            "strMedium": "photo",
+            "relCreatedBy": [
+                "placeholder"
+            ],
+            "strLocation": "",
+            "strCaption": "",
+            "relTimestamp": [
+                "date20220501"
+            ],
+            "strHeightPx": "",
+            "strWidthPx": "",
+            "strOrientation": "",
+            "strPlant": "Lupinus sp."
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "0541972bc9b14ee8",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Artwork"
+        },
+        "label_props": {
+            "strMedium": "photo",
+            "relCreatedBy": [
+                "placeholder"
+            ],
+            "strLocation": "",
+            "strCaption": "",
+            "relTimestamp": [
+                "date20220501"
+            ],
+            "strHeightPx": "",
+            "strWidthPx": "",
+            "strOrientation": "",
+            "strPlant": "Trifolium macrocephalum"
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "9ebd5e9deef34083",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Plant"
+        },
+        "label_props": {
+            "strCommonName": "Big-headed Clover",
+            "strFamily": "Fabaceae",
+            "strLatinName": "Trifolium macrocephalum",
+            "relDestBooks": [],
+            "relArtwork": [
+                "0541972bc9b14ee8"
+            ],
+            "strNativity": "Non-Native & Invasive",
+            "strColor": "PINK",
+            "strDescription": "Flower heads are golf-ball sized and 6-8\u201d tall.",
+            "relNotes": ""
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "b47837ac70bb4757",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Artwork"
+        },
+        "label_props": {
+            "strMedium": "photo",
+            "relCreatedBy": [
+                "placeholder"
+            ],
+            "strLocation": "",
+            "strCaption": "",
+            "relTimestamp": [
+                "date20220501"
+            ],
+            "strHeightPx": "",
+            "strWidthPx": "",
+            "strOrientation": "",
+            "strPlant": "Frasera albicaulis"
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "c3e6ba19a9804e18",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Plant"
+        },
+        "label_props": {
+            "strCommonName": "Shining Frasera",
+            "strFamily": "Gentianaceae",
+            "strLatinName": "Frasera albicaulis",
+            "relDestBooks": [],
+            "relArtwork": [
+                "b47837ac70bb4757"
+            ],
+            "strNativity": "Non-Native & Invasive",
+            "strColor": "PURPLE",
+            "strDescription": "Can be confused with common camas, but each flower has only four petals rather than six, and the leaf edges are whitish.",
+            "relNotes": ""
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "0b89a4efc7164441",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Artwork"
+        },
+        "label_props": {
+            "strMedium": "photo",
+            "relCreatedBy": [
+                "placeholder"
+            ],
+            "strLocation": "",
+            "strCaption": "",
+            "relTimestamp": [
+                "date20220501"
+            ],
+            "strHeightPx": "",
+            "strWidthPx": "",
+            "strOrientation": "",
+            "strPlant": "Frasera speciosa"
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "27c4e1f4c9b24484",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Plant"
+        },
+        "label_props": {
+            "strCommonName": "Green Gentian / Monument Plant",
+            "strFamily": "Gentianaceae",
+            "strLatinName": "Frasera speciosa",
+            "relDestBooks": [],
+            "relArtwork": [
+                "0b89a4efc7164441",
+                "a70bc2dc8f1e435e"
+            ],
+            "strNativity": "Non-Native & Invasive",
+            "strColor": "WHITE / GREEN",
+            "strDescription": "Biennial that forms a rosette of long, strap-like leaves in its first year; sends up a 2-5\u2019 tall spike of unique whitish-green flowers in its second year.",
+            "relNotes": ""
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "a70bc2dc8f1e435e",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Artwork"
+        },
+        "label_props": {
+            "strMedium": "photo",
+            "relCreatedBy": [
+                "placeholder"
+            ],
+            "strLocation": "",
+            "strCaption": "",
+            "relTimestamp": [
+                "date20220501"
+            ],
+            "strHeightPx": "",
+            "strWidthPx": "",
+            "strOrientation": "",
+            "strPlant": "Frasera speciosa"
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "3fc91f8be4f94fd0",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Artwork"
+        },
+        "label_props": {
+            "strMedium": "photo",
+            "relCreatedBy": [
+                "placeholder"
+            ],
+            "strLocation": "",
+            "strCaption": "",
+            "relTimestamp": [
+                "date20220501"
+            ],
+            "strHeightPx": "",
+            "strWidthPx": "",
+            "strOrientation": "",
+            "strPlant": "Geranium molle"
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "7b088fb2694a4051",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Plant"
+        },
+        "label_props": {
+            "strCommonName": "Filaree / Stork\u2019s Bill",
+            "strFamily": "Geraniaceae",
+            "strLatinName": "Geranium molle",
+            "relDestBooks": [],
+            "relArtwork": [
+                "3fc91f8be4f94fd0",
+                "4f62f47e26a541dc"
+            ],
+            "strNativity": "Non-Native & Invasive",
+            "strColor": "PINK",
+            "strDescription": "Usually 3-4\u201d tall with tiny pink flowers and lobed leaves. Flower matures into a long, pointed seed capsule which resembles a stork\u2019s bill to some. ",
+            "relNotes": ""
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "4f62f47e26a541dc",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Artwork"
+        },
+        "label_props": {
+            "strMedium": "photo",
+            "relCreatedBy": [
+                "placeholder"
+            ],
+            "strLocation": "",
+            "strCaption": "",
+            "relTimestamp": [
+                "date20220501"
+            ],
+            "strHeightPx": "",
+            "strWidthPx": "",
+            "strOrientation": "",
+            "strPlant": "Geranium molle"
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "a62c7c456dd9470b",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Artwork"
+        },
+        "label_props": {
+            "strMedium": "photo",
+            "relCreatedBy": [
+                "placeholder"
+            ],
+            "strLocation": "",
+            "strCaption": "",
+            "relTimestamp": [
+                "date20220501"
+            ],
+            "strHeightPx": "",
+            "strWidthPx": "",
+            "strOrientation": "",
+            "strPlant": "Geranium viscosissimum"
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "7c06a55354b74acc",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Plant"
+        },
+        "label_props": {
+            "strCommonName": "Sticky Geranium",
+            "strFamily": "Geraniaceae",
+            "strLatinName": "Geranium viscosissimum",
+            "relDestBooks": [],
+            "relArtwork": [
+                "a62c7c456dd9470b"
+            ],
+            "strNativity": "Non-Native & Invasive",
+            "strColor": "PINK",
+            "strDescription": "Very showy, early-summer bloomer in grasslands and open forests. ",
+            "relNotes": ""
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "aff95e57ae6848ed",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Artwork"
+        },
+        "label_props": {
+            "strMedium": "photo",
+            "relCreatedBy": [
+                "placeholder"
+            ],
+            "strLocation": "",
+            "strCaption": "",
+            "relTimestamp": [
+                "date20220501"
+            ],
+            "strHeightPx": "",
+            "strWidthPx": "",
+            "strOrientation": "",
+            "strPlant": "Philadelphus lewisii"
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "78fa71a5ab6541f2",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Plant"
+        },
+        "label_props": {
+            "strCommonName": "Syringa / Mock Orange",
+            "strFamily": "Hydrangeaceae",
+            "strLatinName": "Philadelphus lewisii",
+            "relDestBooks": [],
+            "relArtwork": [
+                "aff95e57ae6848ed"
+            ],
+            "strNativity": "Non-Native & Invasive",
+            "strColor": "WHITE",
+            "strDescription": "A sweet-smelling shrub that blooms in late spring in the canyon. Another of our plants named for Captain Meriweather Lewis.",
+            "relNotes": ""
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "e59a13729b294b49",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Artwork"
+        },
+        "label_props": {
+            "strMedium": "photo",
+            "relCreatedBy": [
+                "placeholder"
+            ],
+            "strLocation": "",
+            "strCaption": "",
+            "relTimestamp": [
+                "date20220501"
+            ],
+            "strHeightPx": "",
+            "strWidthPx": "",
+            "strOrientation": "",
+            "strPlant": "Hydrophyllum capitatum"
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "2dbf8e10595c43b2",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Plant"
+        },
+        "label_props": {
+            "strCommonName": "Waterleaf / Woolly Breeches",
+            "strFamily": "Hydrophyllaceae",
+            "strLatinName": "Hydrophyllum capitatum",
+            "relDestBooks": [],
+            "relArtwork": [
+                "e59a13729b294b49"
+            ],
+            "strNativity": "Non-Native & Invasive",
+            "strColor": "PURPLE",
+            "strDescription": "Ball-shaped flower cluster is often hidden below leaves.",
+            "relNotes": ""
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "1647123447ba4c8f",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Artwork"
+        },
+        "label_props": {
+            "strMedium": "photo",
+            "relCreatedBy": [
+                "placeholder"
+            ],
+            "strLocation": "",
+            "strCaption": "",
+            "relTimestamp": [
+                "date20220501"
+            ],
+            "strHeightPx": "",
+            "strWidthPx": "",
+            "strOrientation": "",
+            "strPlant": "Phacelia hastata"
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "f4f45a5505394a66",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Plant"
+        },
+        "label_props": {
+            "strCommonName": "Scorpion Weed",
+            "strFamily": "Hydrophyllaceae",
+            "strLatinName": "Phacelia hastata",
+            "relDestBooks": [],
+            "relArtwork": [
+                "1647123447ba4c8f"
+            ],
+            "strNativity": "Non-Native & Invasive",
+            "strColor": "WHITE",
+            "strDescription": "Short-lived Oregon native perennial, so-named because the flower spike is curled like a scorpion\u2019s tail.",
+            "relNotes": ""
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "11641518a60d4949",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Artwork"
+        },
+        "label_props": {
+            "strMedium": "photo",
+            "relCreatedBy": [
+                "placeholder"
+            ],
+            "strLocation": "",
+            "strCaption": "",
+            "relTimestamp": [
+                "date20220501"
+            ],
+            "strHeightPx": "",
+            "strWidthPx": "",
+            "strOrientation": "",
+            "strPlant": "Phacelia linearis"
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "db65a5c49c174bb0",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Plant"
+        },
+        "label_props": {
+            "strCommonName": "Linear-leaf Phacelia",
+            "strFamily": "Hydrophyllaceae",
+            "strLatinName": "Phacelia linearis",
+            "relDestBooks": [],
+            "relArtwork": [
+                "11641518a60d4949"
+            ],
+            "strNativity": "Non-Native & Invasive",
+            "strColor": "BLUE",
+            "strDescription": "Light purplish-blue blossoms on a 6-10\u201d tall plant.",
+            "relNotes": ""
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "48a6ac482901480f",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Artwork"
+        },
+        "label_props": {
+            "strMedium": "photo",
+            "relCreatedBy": [
+                "placeholder"
+            ],
+            "strLocation": "",
+            "strCaption": "",
+            "relTimestamp": [
+                "date20220501"
+            ],
+            "strHeightPx": "",
+            "strWidthPx": "",
+            "strOrientation": "",
+            "strPlant": "Hypericum perforatum"
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "91640eeff5c540e0",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Plant"
+        },
+        "label_props": {
+            "strCommonName": "St John\u2019s Wort",
+            "strFamily": "Hypericaceae",
+            "strLatinName": "Hypericum perforatum",
+            "relDestBooks": [],
+            "relArtwork": [
+                "48a6ac482901480f"
+            ],
+            "strNativity": "Non-Native & Invasive",
+            "strColor": "YELLOW",
+            "strDescription": "Invasive weed. Hold leaves up to light and see the tiny \u201cperforations,\u201d actually lighter green markings, on leaves. ",
+            "relNotes": ""
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "9940925d00484846",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Artwork"
+        },
+        "label_props": {
+            "strMedium": "photo",
+            "relCreatedBy": [
+                "placeholder"
+            ],
+            "strLocation": "",
+            "strCaption": "",
+            "relTimestamp": [
+                "date20220501"
+            ],
+            "strHeightPx": "",
+            "strWidthPx": "",
+            "strOrientation": "",
+            "strPlant": "Sisyrinchium ??"
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "def911132ce54e63",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Plant"
+        },
+        "label_props": {
+            "strCommonName": "Grass Widow",
+            "strFamily": "Iridaceae",
+            "strLatinName": "Sisyrinchium ??",
+            "relDestBooks": [],
+            "relArtwork": [
+                "9940925d00484846"
+            ],
+            "strNativity": "Non-Native & Invasive",
+            "strColor": "PURPLE / PINK",
+            "strDescription": "Early-blooming, magenta-pink. 5-8\u201d tall. Often covers the ground with many plants together.",
+            "relNotes": ""
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "ab4ed701f71d4171",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Artwork"
+        },
+        "label_props": {
+            "strMedium": "photo",
+            "relCreatedBy": [
+                "placeholder"
+            ],
+            "strLocation": "",
+            "strCaption": "",
+            "relTimestamp": [
+                "date20220501"
+            ],
+            "strHeightPx": "",
+            "strWidthPx": "",
+            "strOrientation": "",
+            "strPlant": "Calochortus macrocarpus"
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "a518c779ee0e47da",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Plant"
+        },
+        "label_props": {
+            "strCommonName": "Big-podded Mariposa",
+            "strFamily": "Liliaceae",
+            "strLatinName": "Calochortus macrocarpus",
+            "relDestBooks": [],
+            "relArtwork": [
+                "ab4ed701f71d4171"
+            ],
+            "strNativity": "Non-Native & Invasive",
+            "strColor": "WHITE / PURPLE",
+            "strDescription": "\u201cMariposa\u201d means \u201cbutterfly\u201d in Spanish. These members of the Lily family not only resemble butterflies, but are also attractive nectar sources for them.",
+            "relNotes": ""
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "dd3469cabfec49d9",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Artwork"
+        },
+        "label_props": {
+            "strMedium": "photo",
+            "relCreatedBy": [
+                "placeholder"
+            ],
+            "strLocation": "",
+            "strCaption": "",
+            "relTimestamp": [
+                "date20220501"
+            ],
+            "strHeightPx": "",
+            "strWidthPx": "",
+            "strOrientation": "",
+            "strPlant": "Fritillaria pudica"
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "6df4d32d85624534",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Plant"
+        },
+        "label_props": {
+            "strCommonName": "Yellowbell ",
+            "strFamily": "Liliaceae",
+            "strLatinName": "Fritillaria pudica",
+            "relDestBooks": [],
+            "relArtwork": [
+                "dd3469cabfec49d9",
+                "2dd43b81440f457c",
+                "4b64e1d5a1494e3a"
+            ],
+            "strNativity": "Non-Native & Invasive",
+            "strColor": "YELLOW",
+            "strDescription": "One of the earliest spring blooms. 3-6\u201d tall. Forms a round white seed pod. ",
+            "relNotes": ""
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "2dd43b81440f457c",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Artwork"
+        },
+        "label_props": {
+            "strMedium": "photo",
+            "relCreatedBy": [
+                "placeholder"
+            ],
+            "strLocation": "",
+            "strCaption": "",
+            "relTimestamp": [
+                "date20220501"
+            ],
+            "strHeightPx": "",
+            "strWidthPx": "",
+            "strOrientation": "",
+            "strPlant": "Fritillaria pudica"
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "4b64e1d5a1494e3a",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Artwork"
+        },
+        "label_props": {
+            "strMedium": "photo",
+            "relCreatedBy": [
+                "placeholder"
+            ],
+            "strLocation": "",
+            "strCaption": "",
+            "relTimestamp": [
+                "date20220501"
+            ],
+            "strHeightPx": "",
+            "strWidthPx": "",
+            "strOrientation": "",
+            "strPlant": "Fritillaria pudica"
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "612cc339b47641c0",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Artwork"
+        },
+        "label_props": {
+            "strMedium": "photo",
+            "relCreatedBy": [
+                "placeholder"
+            ],
+            "strLocation": "",
+            "strCaption": "",
+            "relTimestamp": [
+                "date20220501"
+            ],
+            "strHeightPx": "",
+            "strWidthPx": "",
+            "strOrientation": "",
+            "strPlant": "Linum perenne"
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "7a6edb79433b4a87",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Plant"
+        },
+        "label_props": {
+            "strCommonName": "Blue Flax",
+            "strFamily": "Linaceae",
+            "strLatinName": "Linum perenne",
+            "relDestBooks": [],
+            "relArtwork": [
+                "612cc339b47641c0"
+            ],
+            "strNativity": "Non-Native & Invasive",
+            "strColor": "BLUE",
+            "strDescription": "A showy yet delicate bloom on the end of a 15-24\u201d stem. Leaves are very small. ",
+            "relNotes": ""
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "860537cabbd04cbb",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Artwork"
+        },
+        "label_props": {
+            "strMedium": "photo",
+            "relCreatedBy": [
+                "placeholder"
+            ],
+            "strLocation": "",
+            "strCaption": "",
+            "relTimestamp": [
+                "date20220501"
+            ],
+            "strHeightPx": "",
+            "strWidthPx": "",
+            "strOrientation": "",
+            "strPlant": "Toxicoscordion paniculatum"
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "af8fc6c4e0904f98",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Plant"
+        },
+        "label_props": {
+            "strCommonName": "Panicled Death Camas",
+            "strFamily": "Melanthiaceae",
+            "strLatinName": "Toxicoscordion paniculatum",
+            "relDestBooks": [],
+            "relArtwork": [
+                "860537cabbd04cbb"
+            ],
+            "strNativity": "Non-Native & Invasive",
+            "strColor": "WHITE",
+            "strDescription": "Although the blooms are completely different than those of Common Camas, the roots are very similar in looks but are toxic. Definitely not used as food. ",
+            "relNotes": ""
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "2ff85fee3810469e",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Artwork"
+        },
+        "label_props": {
+            "strMedium": "photo",
+            "relCreatedBy": [
+                "placeholder"
+            ],
+            "strLocation": "",
+            "strCaption": "",
+            "relTimestamp": [
+                "date20220501"
+            ],
+            "strHeightPx": "",
+            "strWidthPx": "",
+            "strOrientation": "",
+            "strPlant": "Agastache urticifolia"
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "ef00c0b105a44fa2",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Plant"
+        },
+        "label_props": {
+            "strCommonName": "Horsemint",
+            "strFamily": "Menthaceae",
+            "strLatinName": "Agastache urticifolia",
+            "relDestBooks": [],
+            "relArtwork": [
+                "2ff85fee3810469e"
+            ],
+            "strNativity": "Non-Native & Invasive",
+            "strColor": "PURPLE",
+            "strDescription": "This mint-family member grows in vigorous clumps and is very popular with insect pollinators. Up to 3\u2019 tall.",
+            "relNotes": ""
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "a9766783b44046a7",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Artwork"
+        },
+        "label_props": {
+            "strMedium": "photo",
+            "relCreatedBy": [
+                "placeholder"
+            ],
+            "strLocation": "",
+            "strCaption": "",
+            "relTimestamp": [
+                "date20220501"
+            ],
+            "strHeightPx": "",
+            "strWidthPx": "",
+            "strOrientation": "",
+            "strPlant": "Claytonia megarhiza"
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "ba3dd44da7b049bd",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Plant"
+        },
+        "label_props": {
+            "strCommonName": "Spring Beauty",
+            "strFamily": "Montiaceae",
+            "strLatinName": "Claytonia megarhiza",
+            "relDestBooks": [],
+            "relArtwork": [
+                "a9766783b44046a7"
+            ],
+            "strNativity": "Non-Native & Invasive",
+            "strColor": "PINK / WHITE",
+            "strDescription": "As its name implies, this plant blooms in spring. All parts are edible.",
+            "relNotes": ""
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "9827b907dc3940e5",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Artwork"
+        },
+        "label_props": {
+            "strMedium": "photo",
+            "relCreatedBy": [
+                "placeholder"
+            ],
+            "strLocation": "",
+            "strCaption": "",
+            "relTimestamp": [
+                "date20220501"
+            ],
+            "strHeightPx": "",
+            "strWidthPx": "",
+            "strOrientation": "",
+            "strPlant": "Lewisia columbiana"
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "8cdf7e589b004f88",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Plant"
+        },
+        "label_props": {
+            "strCommonName": "Columbia Lewisia",
+            "strFamily": "Montiaceae",
+            "strLatinName": "Lewisia columbiana",
+            "relDestBooks": [],
+            "relArtwork": [
+                "9827b907dc3940e5"
+            ],
+            "strNativity": "Non-Native & Invasive",
+            "strColor": "WHITE",
+            "strDescription": "A semi-succulent plant named after Meriweather Lewis of the Lewis and Clark expedition. Only found in dry, rocky sites.",
+            "relNotes": ""
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "eabc18fc1dd14461",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Artwork"
+        },
+        "label_props": {
+            "strMedium": "photo",
+            "relCreatedBy": [
+                "placeholder"
+            ],
+            "strLocation": "",
+            "strCaption": "",
+            "relTimestamp": [
+                "date20220501"
+            ],
+            "strHeightPx": "",
+            "strWidthPx": "",
+            "strOrientation": "",
+            "strPlant": "Mirabilis mcfarlanei"
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "b381dd309c714a4c",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Plant"
+        },
+        "label_props": {
+            "strCommonName": "McFarlane\u2019s Four o\u2019clock",
+            "strFamily": "Nyctaginaceae",
+            "strLatinName": "Mirabilis mcfarlanei",
+            "relDestBooks": [],
+            "relArtwork": [
+                "eabc18fc1dd14461"
+            ],
+            "strNativity": "Non-Native & Invasive",
+            "strColor": "PINK",
+            "strDescription": "A very distinctive, round-leaved perennial known from only a few upland sites in Hells Canyon. Named after an early Snake River boatman.",
+            "relNotes": ""
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "3c42b87385754ccd",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Artwork"
+        },
+        "label_props": {
+            "strMedium": "photo",
+            "relCreatedBy": [
+                "placeholder"
+            ],
+            "strLocation": "",
+            "strCaption": "",
+            "relTimestamp": [
+                "date20220501"
+            ],
+            "strHeightPx": "",
+            "strWidthPx": "",
+            "strOrientation": "",
+            "strPlant": "Clarkia pulchella"
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "0429c97ef1cf43be",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Plant"
+        },
+        "label_props": {
+            "strCommonName": "Clarkia / Farewell to Spring",
+            "strFamily": "Onagraceae",
+            "strLatinName": "Clarkia pulchella",
+            "relDestBooks": [],
+            "relArtwork": [
+                "3c42b87385754ccd"
+            ],
+            "strNativity": "Non-Native & Invasive",
+            "strColor": "PINK",
+            "strDescription": "This plant was one of many that were collected by Lewis and Clark, and named accordingly.",
+            "relNotes": ""
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "4f0a07fa17a44416",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Artwork"
+        },
+        "label_props": {
+            "strMedium": "photo",
+            "relCreatedBy": [
+                "placeholder"
+            ],
+            "strLocation": "",
+            "strCaption": "",
+            "relTimestamp": [
+                "date20220501"
+            ],
+            "strHeightPx": "",
+            "strWidthPx": "",
+            "strOrientation": "",
+            "strPlant": "Epipactis gigantea"
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "497c6384f7a641be",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Plant"
+        },
+        "label_props": {
+            "strCommonName": "Chatterbox Orchid / Giant Helleborine",
+            "strFamily": "Orchidaceae",
+            "strLatinName": "Epipactis gigantea",
+            "relDestBooks": [],
+            "relArtwork": [
+                "4f0a07fa17a44416"
+            ],
+            "strNativity": "Non-Native & Invasive",
+            "strColor": "GREEN",
+            "strDescription": "One of more than a dozen species of orchids in northeast Oregon, this one is found along moist springs in Hells Canyon.",
+            "relNotes": ""
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "f0cf50dc73334960",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Artwork"
+        },
+        "label_props": {
+            "strMedium": "photo",
+            "relCreatedBy": [
+                "placeholder"
+            ],
+            "strLocation": "",
+            "strCaption": "",
+            "relTimestamp": [
+                "date20220501"
+            ],
+            "strHeightPx": "",
+            "strWidthPx": "",
+            "strOrientation": "",
+            "strPlant": "Castilleja sp."
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "d0825bd1ab714dc0",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Plant"
+        },
+        "label_props": {
+            "strCommonName": "Paintbrush",
+            "strFamily": "Orobanchaceae",
+            "strLatinName": "Castilleja sp.",
+            "relDestBooks": [],
+            "relArtwork": [
+                "f0cf50dc73334960",
+                "1489b261d9e9449e"
+            ],
+            "strNativity": "Native",
+            "strColor": "",
+            "strDescription": "",
+            "relNotes": ""
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "1489b261d9e9449e",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Artwork"
+        },
+        "label_props": {
+            "strMedium": "photo",
+            "relCreatedBy": [
+                "placeholder"
+            ],
+            "strLocation": "",
+            "strCaption": "",
+            "relTimestamp": [
+                "date20220501"
+            ],
+            "strHeightPx": "",
+            "strWidthPx": "",
+            "strOrientation": "",
+            "strPlant": "Castilleja sp."
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "12874f5c706b4981",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Artwork"
+        },
+        "label_props": {
+            "strMedium": "photo",
+            "relCreatedBy": [
+                "placeholder"
+            ],
+            "strLocation": "",
+            "strCaption": "",
+            "relTimestamp": [
+                "date20220501"
+            ],
+            "strHeightPx": "",
+            "strWidthPx": "",
+            "strOrientation": "",
+            "strPlant": "Orobanche uniflora"
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "a86f9f6323ea40ff",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Plant"
+        },
+        "label_props": {
+            "strCommonName": "Broomrape",
+            "strFamily": "Orobanchaceae",
+            "strLatinName": "Orobanche uniflora",
+            "relDestBooks": [],
+            "relArtwork": [
+                "12874f5c706b4981"
+            ],
+            "strNativity": "Non-Native & Invasive",
+            "strColor": "PURPLE",
+            "strDescription": "This weirdly-named plant is usually found growing singly. It is 3-5\u201d tall and parasitic on other plants, because it has no chlorophyll to manufacture its own food. ",
+            "relNotes": ""
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "f6f4db83b87e4c17",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Artwork"
+        },
+        "label_props": {
+            "strMedium": "photo",
+            "relCreatedBy": [
+                "placeholder"
+            ],
+            "strLocation": "",
+            "strCaption": "",
+            "relTimestamp": [
+                "date20220501"
+            ],
+            "strHeightPx": "",
+            "strWidthPx": "",
+            "strOrientation": "",
+            "strPlant": "Orthocarpus tenuifolius"
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "e0d7fd6909254bfe",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Plant"
+        },
+        "label_props": {
+            "strCommonName": "Owl Clover",
+            "strFamily": "Orobanchaceae",
+            "strLatinName": "Orthocarpus tenuifolius",
+            "relDestBooks": [],
+            "relArtwork": [
+                "f6f4db83b87e4c17"
+            ],
+            "strNativity": "Non-Native & Invasive",
+            "strColor": "YELLOW",
+            "strDescription": "The taxonomy of this plant is confusing and often being revised. It is a close relative of Indian Paintbrush. Formerly in family Scrophulariaceae. Also called Castilleja tenuifolius.",
+            "relNotes": ""
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "757d1773c4d74b7b",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Artwork"
+        },
+        "label_props": {
+            "strMedium": "photo",
+            "relCreatedBy": [
+                "placeholder"
+            ],
+            "strLocation": "",
+            "strCaption": "",
+            "relTimestamp": [
+                "date20220501"
+            ],
+            "strHeightPx": "",
+            "strWidthPx": "",
+            "strOrientation": "",
+            "strPlant": "Paeonia brownii"
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "25cc7efc5373452a",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Plant"
+        },
+        "label_props": {
+            "strCommonName": "Brown\u2019s Peony",
+            "strFamily": "Paeoniaceae",
+            "strLatinName": "Paeonia brownii",
+            "relDestBooks": [],
+            "relArtwork": [
+                "757d1773c4d74b7b"
+            ],
+            "strNativity": "Non-Native & Invasive",
+            "strColor": "BROWN",
+            "strDescription": "The unique brownish bloom and much-lobed, gray-green leaves identify this plant. Not nearly as showy as garden-variety peonies. ",
+            "relNotes": ""
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "df46b732f2b04714",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Artwork"
+        },
+        "label_props": {
+            "strMedium": "photo",
+            "relCreatedBy": [
+                "placeholder"
+            ],
+            "strLocation": "",
+            "strCaption": "",
+            "relTimestamp": [
+                "date20220501"
+            ],
+            "strHeightPx": "",
+            "strWidthPx": "",
+            "strOrientation": "",
+            "strPlant": "Dicentra cucullaria"
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "ab8062c6277e4475",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Plant"
+        },
+        "label_props": {
+            "strCommonName": "Dutchman\u2019s Breeches",
+            "strFamily": "Papaveraceae",
+            "strLatinName": "Dicentra cucullaria",
+            "relDestBooks": [],
+            "relArtwork": [
+                "df46b732f2b04714"
+            ],
+            "strNativity": "Non-Native & Invasive",
+            "strColor": "WHITE",
+            "strDescription": "Unmistakable blooms on long, drooping stems. Always in moist areas. ",
+            "relNotes": ""
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "501a22ee93f54166",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Artwork"
+        },
+        "label_props": {
+            "strMedium": "photo",
+            "relCreatedBy": [
+                "placeholder"
+            ],
+            "strLocation": "",
+            "strCaption": "",
+            "relTimestamp": [
+                "date20220501"
+            ],
+            "strHeightPx": "",
+            "strWidthPx": "",
+            "strOrientation": "",
+            "strPlant": "Larix occidentalis"
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "011bdef9796f4ec2",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Plant"
+        },
+        "label_props": {
+            "strCommonName": "Western Larch",
+            "strFamily": "Pinaceae",
+            "strLatinName": "Larix occidentalis",
+            "relDestBooks": [],
+            "relArtwork": [
+                "501a22ee93f54166"
+            ],
+            "strNativity": "Non-Native & Invasive",
+            "strColor": "NONE",
+            "strDescription": "This is our only deciduous conifer; that is, its needles turn gold in the fall and drop off. The needles are short, 1-2\u201d long in bundles of 10-15.",
+            "relNotes": ""
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "d9f31a21d38a4978",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Artwork"
+        },
+        "label_props": {
+            "strMedium": "photo",
+            "relCreatedBy": [
+                "placeholder"
+            ],
+            "strLocation": "",
+            "strCaption": "",
+            "relTimestamp": [
+                "date20220501"
+            ],
+            "strHeightPx": "",
+            "strWidthPx": "",
+            "strOrientation": "",
+            "strPlant": "Pinus ponderosa"
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "8b5ec863aa774d5b",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Plant"
+        },
+        "label_props": {
+            "strCommonName": "Ponderosa Pine",
+            "strFamily": "Pinaceae",
+            "strLatinName": "Pinus ponderosa",
+            "relDestBooks": [],
+            "relArtwork": [
+                "d9f31a21d38a4978",
+                "f2687fb5f5bb45fd",
+                "22a16e8169364d64",
+                "2b448c864ad644fa"
+            ],
+            "strNativity": "Non-Native & Invasive",
+            "strColor": "NONE",
+            "strDescription": "Needles on this conifer are 5-6\u201d long and borne in groups of three. Thick bark of mature trees is fire-resistant. Snags of Larch and Ponderosa Pine are used as nest sites for many birds and mammals.",
+            "relNotes": ""
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "f2687fb5f5bb45fd",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Artwork"
+        },
+        "label_props": {
+            "strMedium": "photo",
+            "relCreatedBy": [
+                "placeholder"
+            ],
+            "strLocation": "",
+            "strCaption": "",
+            "relTimestamp": [
+                "date20220501"
+            ],
+            "strHeightPx": "",
+            "strWidthPx": "",
+            "strOrientation": "",
+            "strPlant": "Pinus ponderosa"
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "22a16e8169364d64",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Artwork"
+        },
+        "label_props": {
+            "strMedium": "photo",
+            "relCreatedBy": [
+                "placeholder"
+            ],
+            "strLocation": "",
+            "strCaption": "",
+            "relTimestamp": [
+                "date20220501"
+            ],
+            "strHeightPx": "",
+            "strWidthPx": "",
+            "strOrientation": "",
+            "strPlant": "Pinus ponderosa"
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "2b448c864ad644fa",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Artwork"
+        },
+        "label_props": {
+            "strMedium": "photo",
+            "relCreatedBy": [
+                "placeholder"
+            ],
+            "strLocation": "",
+            "strCaption": "",
+            "relTimestamp": [
+                "date20220501"
+            ],
+            "strHeightPx": "",
+            "strWidthPx": "",
+            "strOrientation": "",
+            "strPlant": "Pinus ponderosa"
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "1bbf330d28bb4ca6",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Artwork"
+        },
+        "label_props": {
+            "strMedium": "photo",
+            "relCreatedBy": [
+                "placeholder"
+            ],
+            "strLocation": "",
+            "strCaption": "",
+            "relTimestamp": [
+                "date20220501"
+            ],
+            "strHeightPx": "",
+            "strWidthPx": "",
+            "strOrientation": "",
+            "strPlant": "Pseudotsuga menziesii"
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "e233333c519f4971",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Plant"
+        },
+        "label_props": {
+            "strCommonName": "Douglas-fir",
+            "strFamily": "Pinaceae",
+            "strLatinName": "Pseudotsuga menziesii",
+            "relDestBooks": [],
+            "relArtwork": [
+                "1bbf330d28bb4ca6"
+            ],
+            "strNativity": "Non-Native & Invasive",
+            "strColor": "NONE",
+            "strDescription": "A short-needled conifer with distinctive cones (note the bracts extending beneath each cone scale). This and Ponderosa pine are the common conifers of Hells Canyon. Needles found singly on twigs.",
+            "relNotes": ""
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "8dccd38ff43a48da",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Artwork"
+        },
+        "label_props": {
+            "strMedium": "photo",
+            "relCreatedBy": [
+                "placeholder"
+            ],
+            "strLocation": "",
+            "strCaption": "",
+            "relTimestamp": [
+                "date20220501"
+            ],
+            "strHeightPx": "",
+            "strWidthPx": "",
+            "strOrientation": "",
+            "strPlant": "Collinsia parviflora"
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "39850a36353649b3",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Plant"
+        },
+        "label_props": {
+            "strCommonName": "Blue-eyed Mary",
+            "strFamily": "Plantaginaceae",
+            "strLatinName": "Collinsia parviflora",
+            "relDestBooks": [],
+            "relArtwork": [
+                "8dccd38ff43a48da"
+            ],
+            "strNativity": "Non-Native & Invasive",
+            "strColor": "BLUE",
+            "strDescription": "A tiny spring-blooming plant that seldom exceeds 4\u201d in height.",
+            "relNotes": ""
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "d8c59c59bf114729",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Artwork"
+        },
+        "label_props": {
+            "strMedium": "photo",
+            "relCreatedBy": [
+                "placeholder"
+            ],
+            "strLocation": "",
+            "strCaption": "",
+            "relTimestamp": [
+                "date20220501"
+            ],
+            "strHeightPx": "",
+            "strWidthPx": "",
+            "strOrientation": "",
+            "strPlant": "Penstemon deustus"
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "f5a7303c940145e4",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Plant"
+        },
+        "label_props": {
+            "strCommonName": "Hot Rock Penstemon / Scabland Penstemon",
+            "strFamily": "Plantaginaceae",
+            "strLatinName": "Penstemon deustus",
+            "relDestBooks": [],
+            "relArtwork": [
+                "d8c59c59bf114729"
+            ],
+            "strNativity": "Non-Native & Invasive",
+            "strColor": "WHITE",
+            "strDescription": "As its name implies, this white penstemon prefers hot, dry, rocky sites. ",
+            "relNotes": ""
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "33c5bd4fbb82442e",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Artwork"
+        },
+        "label_props": {
+            "strMedium": "photo",
+            "relCreatedBy": [
+                "placeholder"
+            ],
+            "strLocation": "",
+            "strCaption": "",
+            "relTimestamp": [
+                "date20220501"
+            ],
+            "strHeightPx": "",
+            "strWidthPx": "",
+            "strOrientation": "",
+            "strPlant": "Penstemon fruticosus"
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "c5f55ee7aeab4013",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Plant"
+        },
+        "label_props": {
+            "strCommonName": "Shrubby Penstemon",
+            "strFamily": "Plantaginaceae",
+            "strLatinName": "Penstemon fruticosus",
+            "relDestBooks": [],
+            "relArtwork": [
+                "33c5bd4fbb82442e"
+            ],
+            "strNativity": "Non-Native & Invasive",
+            "strColor": "PURPLE",
+            "strDescription": "A very showy semi-shrub, often seen on rocky cliffs. ",
+            "relNotes": ""
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "a7d7a562a9a1406b",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Artwork"
+        },
+        "label_props": {
+            "strMedium": "photo",
+            "relCreatedBy": [
+                "placeholder"
+            ],
+            "strLocation": "",
+            "strCaption": "",
+            "relTimestamp": [
+                "date20220501"
+            ],
+            "strHeightPx": "",
+            "strWidthPx": "",
+            "strOrientation": "",
+            "strPlant": "Penstemon sp."
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "88e7630360d842b3",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Plant"
+        },
+        "label_props": {
+            "strCommonName": "Penstemon",
+            "strFamily": "Plantaginaceae",
+            "strLatinName": "Penstemon sp.",
+            "relDestBooks": [],
+            "relArtwork": [
+                "a7d7a562a9a1406b"
+            ],
+            "strNativity": "Non-Native & Invasive",
+            "strColor": "BLUE",
+            "strDescription": "Another large genus, most of ours are blue, purple, or white, and all have showy spikes of summer-blooming flowers.  Formerly in the Scrophulariaceae family.",
+            "relNotes": ""
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "8e75be9023a446a1",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Artwork"
+        },
+        "label_props": {
+            "strMedium": "photo",
+            "relCreatedBy": [
+                "placeholder"
+            ],
+            "strLocation": "",
+            "strCaption": "",
+            "relTimestamp": [
+                "date20220501"
+            ],
+            "strHeightPx": "",
+            "strWidthPx": "",
+            "strOrientation": "",
+            "strPlant": "Ipomopsis aggregata"
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "1507b42350dc43eb",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Plant"
+        },
+        "label_props": {
+            "strCommonName": "Scarlet Gilia (Skyrocket)",
+            "strFamily": "Polemoniaceae",
+            "strLatinName": "Ipomopsis aggregata",
+            "relDestBooks": [],
+            "relArtwork": [
+                "8e75be9023a446a1",
+                "ddc65b0c6afb4673"
+            ],
+            "strNativity": "Native",
+            "strColor": "RED",
+            "strDescription": "",
+            "relNotes": ""
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "ddc65b0c6afb4673",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Artwork"
+        },
+        "label_props": {
+            "strMedium": "photo",
+            "relCreatedBy": [
+                "placeholder"
+            ],
+            "strLocation": "",
+            "strCaption": "",
+            "relTimestamp": [
+                "date20220501"
+            ],
+            "strHeightPx": "",
+            "strWidthPx": "",
+            "strOrientation": "",
+            "strPlant": "Ipomopsis aggregata"
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "f31853bcca1e42d4",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Artwork"
+        },
+        "label_props": {
+            "strMedium": "photo",
+            "relCreatedBy": [
+                "placeholder"
+            ],
+            "strLocation": "",
+            "strCaption": "",
+            "relTimestamp": [
+                "date20220501"
+            ],
+            "strHeightPx": "",
+            "strWidthPx": "",
+            "strOrientation": "",
+            "strPlant": "Phlox colubrina"
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "366ff464dcb5412f",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Plant"
+        },
+        "label_props": {
+            "strCommonName": "Snake River Phlox",
+            "strFamily": "Polemoniaceae",
+            "strLatinName": "Phlox colubrina",
+            "relDestBooks": [],
+            "relArtwork": [
+                "f31853bcca1e42d4",
+                "2c876d5993674ab8"
+            ],
+            "strNativity": "Non-Native & Invasive",
+            "strColor": "PINK",
+            "strDescription": "",
+            "relNotes": ""
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "2c876d5993674ab8",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Artwork"
+        },
+        "label_props": {
+            "strMedium": "photo",
+            "relCreatedBy": [
+                "placeholder"
+            ],
+            "strLocation": "",
+            "strCaption": "",
+            "relTimestamp": [
+                "date20220501"
+            ],
+            "strHeightPx": "",
+            "strWidthPx": "",
+            "strOrientation": "",
+            "strPlant": "Phlox colubrina"
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "12f42446a2af48e2",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Artwork"
+        },
+        "label_props": {
+            "strMedium": "photo",
+            "relCreatedBy": [
+                "placeholder"
+            ],
+            "strLocation": "",
+            "strCaption": "",
+            "relTimestamp": [
+                "date20220501"
+            ],
+            "strHeightPx": "",
+            "strWidthPx": "",
+            "strOrientation": "",
+            "strPlant": "Eriogonum heracleiodes"
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "4ed605bce8c34531",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Plant"
+        },
+        "label_props": {
+            "strCommonName": "Creamy Buckwheat",
+            "strFamily": "Polygonaceae",
+            "strLatinName": "Eriogonum heracleiodes",
+            "relDestBooks": [],
+            "relArtwork": [
+                "12f42446a2af48e2"
+            ],
+            "strNativity": "Non-Native & Invasive",
+            "strColor": "WHITE",
+            "strDescription": "Blooms in summer. Flowers are in groups called umbels at the ends of 12-15\u201d stems. Foliage is grayish green and mostly basal.",
+            "relNotes": ""
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "7499156028bc4dc0",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Artwork"
+        },
+        "label_props": {
+            "strMedium": "photo",
+            "relCreatedBy": [
+                "placeholder"
+            ],
+            "strLocation": "",
+            "strCaption": "",
+            "relTimestamp": [
+                "date20220501"
+            ],
+            "strHeightPx": "",
+            "strWidthPx": "",
+            "strOrientation": "",
+            "strPlant": "Eriogonum thymoides"
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "6efad7137ce8419a",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Plant"
+        },
+        "label_props": {
+            "strCommonName": "Thyme-leaved Buckwheat",
+            "strFamily": "Polygonaceae",
+            "strLatinName": "Eriogonum thymoides",
+            "relDestBooks": [],
+            "relArtwork": [
+                "7499156028bc4dc0"
+            ],
+            "strNativity": "Non-Native & Invasive",
+            "strColor": "YELLOW / RED",
+            "strDescription": "Thyme-leaved buckwheat and creamy buckwheat form semi-shrubby mats 8-15\u201d tall on dry slopes.",
+            "relNotes": ""
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "2b24ab312ca841c5",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Artwork"
+        },
+        "label_props": {
+            "strMedium": "photo",
+            "relCreatedBy": [
+                "placeholder"
+            ],
+            "strLocation": "",
+            "strCaption": "",
+            "relTimestamp": [
+                "date20220501"
+            ],
+            "strHeightPx": "",
+            "strWidthPx": "",
+            "strOrientation": "",
+            "strPlant": "Rumex acetosella"
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "0a8ea6f957a44460",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Plant"
+        },
+        "label_props": {
+            "strCommonName": "Sheep Sorrel",
+            "strFamily": "Polygonaceae",
+            "strLatinName": "Rumex acetosella",
+            "relDestBooks": [],
+            "relArtwork": [
+                "2b24ab312ca841c5"
+            ],
+            "strNativity": "Non-Native & Invasive",
+            "strColor": "RED",
+            "strDescription": "This plant is a good source of Vitamin C. ",
+            "relNotes": ""
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "1454b60ed8bf45e4",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Artwork"
+        },
+        "label_props": {
+            "strMedium": "photo",
+            "relCreatedBy": [
+                "placeholder"
+            ],
+            "strLocation": "",
+            "strCaption": "",
+            "relTimestamp": [
+                "date20220501"
+            ],
+            "strHeightPx": "",
+            "strWidthPx": "",
+            "strOrientation": "",
+            "strPlant": "Dodecatheon pulchellum"
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "dcf296bc7a804a0e",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Plant"
+        },
+        "label_props": {
+            "strCommonName": "Shooting Star",
+            "strFamily": "Primulaceae",
+            "strLatinName": "Dodecatheon pulchellum",
+            "relDestBooks": [],
+            "relArtwork": [
+                "1454b60ed8bf45e4",
+                "1667c2277af246c7"
+            ],
+            "strNativity": "Non-Native & Invasive",
+            "strColor": "PINK",
+            "strDescription": "",
+            "relNotes": ""
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "1667c2277af246c7",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Artwork"
+        },
+        "label_props": {
+            "strMedium": "photo",
+            "relCreatedBy": [
+                "placeholder"
+            ],
+            "strLocation": "",
+            "strCaption": "",
+            "relTimestamp": [
+                "date20220501"
+            ],
+            "strHeightPx": "",
+            "strWidthPx": "",
+            "strOrientation": "",
+            "strPlant": "Dodecatheon pulchellum"
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "4d3bdd8b3cad480c",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Artwork"
+        },
+        "label_props": {
+            "strMedium": "photo",
+            "relCreatedBy": [
+                "placeholder"
+            ],
+            "strLocation": "",
+            "strCaption": "",
+            "relTimestamp": [
+                "date20220501"
+            ],
+            "strHeightPx": "",
+            "strWidthPx": "",
+            "strOrientation": "",
+            "strPlant": "Clematis hirsutissima"
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "17ff3e015b9d4aa9",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Plant"
+        },
+        "label_props": {
+            "strCommonName": "Sugar Scoop / Vase Flower",
+            "strFamily": "Ranunculaceae",
+            "strLatinName": "Clematis hirsutissima",
+            "relDestBooks": [],
+            "relArtwork": [
+                "4d3bdd8b3cad480c",
+                "920076f31b064abd",
+                "7b6b273940764e8f"
+            ],
+            "strNativity": "Non-Native & Invasive",
+            "strColor": "PURPLE",
+            "strDescription": "Many of the members of the buttercup family look nothing like a typical \u201cbuttercup.\u201d This is a good example.",
+            "relNotes": ""
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "920076f31b064abd",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Artwork"
+        },
+        "label_props": {
+            "strMedium": "photo",
+            "relCreatedBy": [
+                "placeholder"
+            ],
+            "strLocation": "",
+            "strCaption": "",
+            "relTimestamp": [
+                "date20220501"
+            ],
+            "strHeightPx": "",
+            "strWidthPx": "",
+            "strOrientation": "",
+            "strPlant": "Clematis hirsutissima"
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "7b6b273940764e8f",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Artwork"
+        },
+        "label_props": {
+            "strMedium": "photo",
+            "relCreatedBy": [
+                "placeholder"
+            ],
+            "strLocation": "",
+            "strCaption": "",
+            "relTimestamp": [
+                "date20220501"
+            ],
+            "strHeightPx": "",
+            "strWidthPx": "",
+            "strOrientation": "",
+            "strPlant": "Clematis hirsutissima"
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "56d6decc4aa44419",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Artwork"
+        },
+        "label_props": {
+            "strMedium": "photo",
+            "relCreatedBy": [
+                "placeholder"
+            ],
+            "strLocation": "",
+            "strCaption": "",
+            "relTimestamp": [
+                "date20220501"
+            ],
+            "strHeightPx": "",
+            "strWidthPx": "",
+            "strOrientation": "",
+            "strPlant": "Delphinium sp."
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "ab3f3a50c6004f8c",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Plant"
+        },
+        "label_props": {
+            "strCommonName": "Larkspur",
+            "strFamily": "Ranunculaceae",
+            "strLatinName": "Delphinium sp.",
+            "relDestBooks": [],
+            "relArtwork": [
+                "56d6decc4aa44419"
+            ],
+            "strNativity": "Non-Native & Invasive",
+            "strColor": "BLUE",
+            "strDescription": "This native plant is toxic to cattle if eaten in quantity. We have several common species.",
+            "relNotes": ""
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "f63e5597ee8f4fff",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Artwork"
+        },
+        "label_props": {
+            "strMedium": "photo",
+            "relCreatedBy": [
+                "placeholder"
+            ],
+            "strLocation": "",
+            "strCaption": "",
+            "relTimestamp": [
+                "date20220501"
+            ],
+            "strHeightPx": "",
+            "strWidthPx": "",
+            "strOrientation": "",
+            "strPlant": "Ranunculus glaberrimus"
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "7d71099a88024dde",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Plant"
+        },
+        "label_props": {
+            "strCommonName": "Sage Buttercup",
+            "strFamily": "Ranunculaceae",
+            "strLatinName": "Ranunculus glaberrimus",
+            "relDestBooks": [],
+            "relArtwork": [
+                "f63e5597ee8f4fff"
+            ],
+            "strNativity": "Non-Native & Invasive",
+            "strColor": "YELLOW",
+            "strDescription": "This is one of the first flowers to show up in spring. It is often hidden in the brown grass of winter. ",
+            "relNotes": ""
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "7360b34dbc6544fc",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Artwork"
+        },
+        "label_props": {
+            "strMedium": "photo",
+            "relCreatedBy": [
+                "placeholder"
+            ],
+            "strLocation": "",
+            "strCaption": "",
+            "relTimestamp": [
+                "date20220501"
+            ],
+            "strHeightPx": "",
+            "strWidthPx": "",
+            "strOrientation": "",
+            "strPlant": "Amelanchier alnifolia"
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "cc4fb22458324139",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Plant"
+        },
+        "label_props": {
+            "strCommonName": "Serviceberry / Sarvisberry",
+            "strFamily": "Rosaceae",
+            "strLatinName": "Amelanchier alnifolia",
+            "relDestBooks": [],
+            "relArtwork": [
+                "7360b34dbc6544fc"
+            ],
+            "strNativity": "Non-Native & Invasive",
+            "strColor": "WHITE",
+            "strDescription": "The first shrub to bloom in spring. Its fruits are dark blue, small and seedy, but good to eat.",
+            "relNotes": ""
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "d16d453c3fbf479f",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Artwork"
+        },
+        "label_props": {
+            "strMedium": "photo",
+            "relCreatedBy": [
+                "placeholder"
+            ],
+            "strLocation": "",
+            "strCaption": "",
+            "relTimestamp": [
+                "date20220501"
+            ],
+            "strHeightPx": "",
+            "strWidthPx": "",
+            "strOrientation": "",
+            "strPlant": "Crataegus columbiana"
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "ed0bce86eac34b4f",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Plant"
+        },
+        "label_props": {
+            "strCommonName": "Hawthorn",
+            "strFamily": "Rosaceae",
+            "strLatinName": "Crataegus columbiana",
+            "relDestBooks": [],
+            "relArtwork": [
+                "d16d453c3fbf479f"
+            ],
+            "strNativity": "Non-Native & Invasive",
+            "strColor": "WHITE",
+            "strDescription": "A shrub that often forms dense thickets. Foliage turns red in fall. Long, straight thorns on stems.",
+            "relNotes": ""
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "ab71651049074e19",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Artwork"
+        },
+        "label_props": {
+            "strMedium": "photo",
+            "relCreatedBy": [
+                "placeholder"
+            ],
+            "strLocation": "",
+            "strCaption": "",
+            "relTimestamp": [
+                "date20220501"
+            ],
+            "strHeightPx": "",
+            "strWidthPx": "",
+            "strOrientation": "",
+            "strPlant": "Geum triflorum"
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "e6a12dea6a6e4c6a",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Plant"
+        },
+        "label_props": {
+            "strCommonName": "Prairie Smoke / Old Man\u2019s Whiskers",
+            "strFamily": "Rosaceae",
+            "strLatinName": "Geum triflorum",
+            "relDestBooks": [],
+            "relArtwork": [
+                "ab71651049074e19",
+                "f5598b32f3bf45c9"
+            ],
+            "strNativity": "Non-Native & Invasive",
+            "strColor": "PINK",
+            "strDescription": "Very common on grassy slopes and meadows. The name comes from the way extensive patches look when in seed.",
+            "relNotes": ""
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "f5598b32f3bf45c9",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Artwork"
+        },
+        "label_props": {
+            "strMedium": "photo",
+            "relCreatedBy": [
+                "placeholder"
+            ],
+            "strLocation": "",
+            "strCaption": "",
+            "relTimestamp": [
+                "date20220501"
+            ],
+            "strHeightPx": "",
+            "strWidthPx": "",
+            "strOrientation": "",
+            "strPlant": "Geum triflorum"
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "f5faccf3d69f455f",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Artwork"
+        },
+        "label_props": {
+            "strMedium": "photo",
+            "relCreatedBy": [
+                "placeholder"
+            ],
+            "strLocation": "",
+            "strCaption": "",
+            "relTimestamp": [
+                "date20220501"
+            ],
+            "strHeightPx": "",
+            "strWidthPx": "",
+            "strOrientation": "",
+            "strPlant": "Holodiscus discolor"
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "6960210592e24d1c",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Plant"
+        },
+        "label_props": {
+            "strCommonName": "Ocean Spray",
+            "strFamily": "Rosaceae",
+            "strLatinName": "Holodiscus discolor",
+            "relDestBooks": [],
+            "relArtwork": [
+                "f5faccf3d69f455f"
+            ],
+            "strNativity": "Non-Native & Invasive",
+            "strColor": "WHITE",
+            "strDescription": "This shrub is found in partial shade, in pine or Douglas-fir stands. It blooms in mid-summer. ",
+            "relNotes": ""
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "cae8abb7f0b14d2e",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Artwork"
+        },
+        "label_props": {
+            "strMedium": "photo",
+            "relCreatedBy": [
+                "placeholder"
+            ],
+            "strLocation": "",
+            "strCaption": "",
+            "relTimestamp": [
+                "date20220501"
+            ],
+            "strHeightPx": "",
+            "strWidthPx": "",
+            "strOrientation": "",
+            "strPlant": "Physocarpus malvaceus"
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "7bc924ef8ed4483d",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Plant"
+        },
+        "label_props": {
+            "strCommonName": "Ninebark",
+            "strFamily": "Rosaceae",
+            "strLatinName": "Physocarpus malvaceus",
+            "relDestBooks": [],
+            "relArtwork": [
+                "cae8abb7f0b14d2e"
+            ],
+            "strNativity": "Non-Native & Invasive",
+            "strColor": "WHITE",
+            "strDescription": "This low-growing shrub was used by the Nez Perce for its fiber in basket-making. It turns red in the fall. ",
+            "relNotes": ""
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "d34bddfe132943a9",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Artwork"
+        },
+        "label_props": {
+            "strMedium": "photo",
+            "relCreatedBy": [
+                "placeholder"
+            ],
+            "strLocation": "",
+            "strCaption": "",
+            "relTimestamp": [
+                "date20220501"
+            ],
+            "strHeightPx": "",
+            "strWidthPx": "",
+            "strOrientation": "",
+            "strPlant": "Potentilla sp."
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "c00cd296e07d4127",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Plant"
+        },
+        "label_props": {
+            "strCommonName": "Cinquefoil",
+            "strFamily": "Rosaceae",
+            "strLatinName": "Potentilla sp.",
+            "relDestBooks": [],
+            "relArtwork": [
+                "d34bddfe132943a9"
+            ],
+            "strNativity": "Non-Native & Invasive",
+            "strColor": "YELLOW",
+            "strDescription": "This large genus is well-represented in Hells Canyon. Besides several native species, there is a non-native, invasive variety, Potentilla recta (Sulfur Cinquefoil) that has very hairy stems and very pale yellow flowers.",
+            "relNotes": ""
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "ed44a4c2942a4939",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Artwork"
+        },
+        "label_props": {
+            "strMedium": "photo",
+            "relCreatedBy": [
+                "placeholder"
+            ],
+            "strLocation": "",
+            "strCaption": "",
+            "relTimestamp": [
+                "date20220501"
+            ],
+            "strHeightPx": "",
+            "strWidthPx": "",
+            "strOrientation": "",
+            "strPlant": "Prunus virginiana"
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "78e40cae6ef04551",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Plant"
+        },
+        "label_props": {
+            "strCommonName": "Chokecherry",
+            "strFamily": "Rosaceae",
+            "strLatinName": "Prunus virginiana",
+            "relDestBooks": [],
+            "relArtwork": [
+                "ed44a4c2942a4939"
+            ],
+            "strNativity": "Non-Native & Invasive",
+            "strColor": "WHITE",
+            "strDescription": "A tall shrub, usually found close to waterways. Clusters of bright red berries in seed. Birds and bears love them. This was an important food plant for the Nez Perce.",
+            "relNotes": ""
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "1e42d6c9bb6e43ab",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Artwork"
+        },
+        "label_props": {
+            "strMedium": "photo",
+            "relCreatedBy": [
+                "placeholder"
+            ],
+            "strLocation": "",
+            "strCaption": "",
+            "relTimestamp": [
+                "date20220501"
+            ],
+            "strHeightPx": "",
+            "strWidthPx": "",
+            "strOrientation": "",
+            "strPlant": "Rosa sp."
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "cc9e06d81eb94bd6",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Plant"
+        },
+        "label_props": {
+            "strCommonName": "Wild Rose",
+            "strFamily": "Rosaceae",
+            "strLatinName": "Rosa sp.",
+            "relDestBooks": [],
+            "relArtwork": [
+                "1e42d6c9bb6e43ab"
+            ],
+            "strNativity": "Non-Native & Invasive",
+            "strColor": "PINK",
+            "strDescription": "Rose hips, the fruit of this plant, are high in Vitamin C. We have several native species as well as non-native invasives.",
+            "relNotes": ""
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "23cde9b992244c98",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Artwork"
+        },
+        "label_props": {
+            "strMedium": "photo",
+            "relCreatedBy": [
+                "placeholder"
+            ],
+            "strLocation": "",
+            "strCaption": "",
+            "relTimestamp": [
+                "date20220501"
+            ],
+            "strHeightPx": "",
+            "strWidthPx": "",
+            "strOrientation": "",
+            "strPlant": "Rubus sp."
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "ef624d4dca8347f3",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Plant"
+        },
+        "label_props": {
+            "strCommonName": "Raspberry",
+            "strFamily": "Rosaceae",
+            "strLatinName": "Rubus sp.",
+            "relDestBooks": [],
+            "relArtwork": [
+                "23cde9b992244c98"
+            ],
+            "strNativity": "Non-Native & Invasive",
+            "strColor": "WHITE",
+            "strDescription": "This native does not form big thickets as blackberries do. The berries are delicious. ",
+            "relNotes": ""
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "aeb762ad25ce40bc",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Artwork"
+        },
+        "label_props": {
+            "strMedium": "photo",
+            "relCreatedBy": [
+                "placeholder"
+            ],
+            "strLocation": "",
+            "strCaption": "",
+            "relTimestamp": [
+                "date20220501"
+            ],
+            "strHeightPx": "",
+            "strWidthPx": "",
+            "strOrientation": "",
+            "strPlant": "Populus trichocarpa"
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "2315c05fc6ff4946",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Plant"
+        },
+        "label_props": {
+            "strCommonName": "Black Cottonwood",
+            "strFamily": "Salicaceae",
+            "strLatinName": "Populus trichocarpa",
+            "relDestBooks": [],
+            "relArtwork": [
+                "aeb762ad25ce40bc"
+            ],
+            "strNativity": "Non-Native & Invasive",
+            "strColor": "NONE",
+            "strDescription": "Large, fast-growing broadleaf tree found along streams.",
+            "relNotes": ""
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "abc3ff2a2b87416d",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Artwork"
+        },
+        "label_props": {
+            "strMedium": "photo",
+            "relCreatedBy": [
+                "placeholder"
+            ],
+            "strLocation": "",
+            "strCaption": "",
+            "relTimestamp": [
+                "date20220501"
+            ],
+            "strHeightPx": "",
+            "strWidthPx": "",
+            "strOrientation": "",
+            "strPlant": "Heuchera cylindrica"
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "25fcf3c858c142ab",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Plant"
+        },
+        "label_props": {
+            "strCommonName": "Alum Root",
+            "strFamily": "Saxifragaceae",
+            "strLatinName": "Heuchera cylindrica",
+            "relDestBooks": [],
+            "relArtwork": [
+                "abc3ff2a2b87416d"
+            ],
+            "strNativity": "Non-Native & Invasive",
+            "strColor": "WHITE",
+            "strDescription": "This plant\u2019s root was used medicinally by the Nez Perce and by settlers.",
+            "relNotes": ""
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "2bb6778a8a974257",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Artwork"
+        },
+        "label_props": {
+            "strMedium": "photo",
+            "relCreatedBy": [
+                "placeholder"
+            ],
+            "strLocation": "",
+            "strCaption": "",
+            "relTimestamp": [
+                "date20220501"
+            ],
+            "strHeightPx": "",
+            "strWidthPx": "",
+            "strOrientation": "",
+            "strPlant": "Lithophragma parviflorum"
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "18789c7ffaec4982",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Plant"
+        },
+        "label_props": {
+            "strCommonName": "Prairie Star",
+            "strFamily": "Saxifragaceae",
+            "strLatinName": "Lithophragma parviflorum",
+            "relDestBooks": [],
+            "relArtwork": [
+                "2bb6778a8a974257"
+            ],
+            "strNativity": "Non-Native & Invasive",
+            "strColor": "WHITE",
+            "strDescription": "This delicate little plant\u2019s genus is derived from the Latin for \u201crock breaker.\u201d Apparently it is tougher than it looks. It grows 4-6\u201d tall.",
+            "relNotes": ""
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "8c5456e9c3694c81",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Artwork"
+        },
+        "label_props": {
+            "strMedium": "photo",
+            "relCreatedBy": [
+                "placeholder"
+            ],
+            "strLocation": "",
+            "strCaption": "",
+            "relTimestamp": [
+                "date20220501"
+            ],
+            "strHeightPx": "",
+            "strWidthPx": "",
+            "strOrientation": "",
+            "strPlant": "Linaria vulgaris"
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "8da093c96f904310",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Plant"
+        },
+        "label_props": {
+            "strCommonName": "Butter and Eggs Toadflax",
+            "strFamily": "Scrophulariaceae",
+            "strLatinName": "Linaria vulgaris",
+            "relDestBooks": [],
+            "relArtwork": [
+                "8c5456e9c3694c81"
+            ],
+            "strNativity": "Non-Native & Invasive",
+            "strColor": "YELLOW",
+            "strDescription": "An invasive weed resembling garden snapdragons, may be harmful to livestock. ",
+            "relNotes": ""
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "741a78d6b94e4f06",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Artwork"
+        },
+        "label_props": {
+            "strMedium": "photo",
+            "relCreatedBy": [
+                "placeholder"
+            ],
+            "strLocation": "",
+            "strCaption": "",
+            "relTimestamp": [
+                "date20220501"
+            ],
+            "strHeightPx": "",
+            "strWidthPx": "",
+            "strOrientation": "",
+            "strPlant": "Verbascum thapsis"
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "d2a365da6b3948ba",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Plant"
+        },
+        "label_props": {
+            "strCommonName": "Mullein",
+            "strFamily": "Scrophulariaceae",
+            "strLatinName": "Verbascum thapsis",
+            "relDestBooks": [],
+            "relArtwork": [
+                "741a78d6b94e4f06",
+                "b6ddcc035ef44a7b"
+            ],
+            "strNativity": "Non-Native & Invasive",
+            "strColor": "YELLOW",
+            "strDescription": "The fuzzy, thick leaves of this yellow-flowered plant are distinctive. It grows 4-6\u2019 tall. The photo on the right shows both Mullein (left) and Teasel (right).",
+            "relNotes": ""
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "b6ddcc035ef44a7b",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Artwork"
+        },
+        "label_props": {
+            "strMedium": "photo",
+            "relCreatedBy": [
+                "placeholder"
+            ],
+            "strLocation": "",
+            "strCaption": "",
+            "relTimestamp": [
+                "date20220501"
+            ],
+            "strHeightPx": "",
+            "strWidthPx": "",
+            "strOrientation": "",
+            "strPlant": "Verbascum thapsis"
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "64170b29627e4db9",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Artwork"
+        },
+        "label_props": {
+            "strMedium": "photo",
+            "relCreatedBy": [
+                "placeholder"
+            ],
+            "strLocation": "",
+            "strCaption": "",
+            "relTimestamp": [
+                "date20220501"
+            ],
+            "strHeightPx": "",
+            "strWidthPx": "",
+            "strOrientation": "",
+            "strPlant": "Urtica dioecea"
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "984d2be90d3b4ec9",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Plant"
+        },
+        "label_props": {
+            "strCommonName": "Stinging Nettle",
+            "strFamily": "Urticaceae",
+            "strLatinName": "Urtica dioecea",
+            "relDestBooks": [],
+            "relArtwork": [
+                "64170b29627e4db9"
+            ],
+            "strNativity": "Non-Native & Invasive",
+            "strColor": "WHITE",
+            "strDescription": "This invasive plant is covered with tiny hairs that irritate skin. Young plants can be carefully gathered and boiled for a spring green.",
+            "relNotes": ""
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "4f60d787c05c418f",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Artwork"
+        },
+        "label_props": {
+            "strMedium": "photo",
+            "relCreatedBy": [
+                "placeholder"
+            ],
+            "strLocation": "",
+            "strCaption": "",
+            "relTimestamp": [
+                "date20220501"
+            ],
+            "strHeightPx": "",
+            "strWidthPx": "",
+            "strOrientation": "",
+            "strPlant": "Viola adunca"
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "adcc8373090948d5",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Plant"
+        },
+        "label_props": {
+            "strCommonName": "Long-spurred Violet",
+            "strFamily": "Violaceae",
+            "strLatinName": "Viola adunca",
+            "relDestBooks": [],
+            "relArtwork": [
+                "4f60d787c05c418f"
+            ],
+            "strNativity": "Non-Native & Invasive",
+            "strColor": "PURPLE",
+            "strDescription": "This small purple bloom has a distinct spur visible behind the main petals.",
+            "relNotes": ""
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "e63670682a044d89",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Artwork"
+        },
+        "label_props": {
+            "strMedium": "photo",
+            "relCreatedBy": [
+                "placeholder"
+            ],
+            "strLocation": "",
+            "strCaption": "",
+            "relTimestamp": [
+                "date20220501"
+            ],
+            "strHeightPx": "",
+            "strWidthPx": "",
+            "strOrientation": "",
+            "strPlant": "Viola purpurea"
+        }
+    },
+    {
+        "core_props": {
+            "dest_sites": [],
+            "id": "20afd8151f8e4653",
+            "date_created": 1651388400,
+            "date_updated": 1651388400,
+            "label": "Plant"
+        },
+        "label_props": {
+            "strCommonName": "Mountain Yellow Violet",
+            "strFamily": "Violaceae",
+            "strLatinName": "Viola purpurea",
+            "relDestBooks": [],
+            "relArtwork": [
+                "e63670682a044d89"
+            ],
+            "strNativity": "Non-Native & Invasive",
+            "strColor": "YELLOW",
+            "strDescription": "A yellow version of the common purple-petalled violet.",
+            "relNotes": ""
+        }
+    }
+]
