@@ -1,48 +1,38 @@
-# task 01
-# https://github.com/jharbeno/miscellaneous-app-tasks/task01/README.md
-#
-# convert input.json to output.json
-
+import csv
 import json
+import copy
 
-inputFilepath = 'input.json'
-outputFilepath = 'output.json'
+outputFilePath = 'output.json'
+inputFilePath = 'nodes.json'
 
-exampleOutputFilepath = 'desired-output.json'
+labels = []
 
-## read the input file
+with open('changes.csv', mode='r') as csvFile:
+    reader = csv.reader(csvFile)
+    next(csvFile)
+    for row in reader:
+        labels.append(row)
 
-with open(filepath, 'r') as f:
-  data = json.load(f)
+with open(inputFilePath, 'r') as f:
+    data = json.load(f)
 
-## get a sorted list that is the set of non-null labels
-## - the label is in obj['core_props']['label']
-## - if a node's label is null or None, ignore it
-## - remember to filter out any null or None labels
 
-setOfKeys = []
+for node in data:
 
-for d in data:
-    if d['core_props']['label']:
-      setOfKeys.append(d['core_props']['label'])
+    newNode = copy.deepcopy(node)
+    for label in labels:
+        if node['core_props']['label'] == label[0]:
+            try:
+                label_value = node['label_props'][label[1]]
+                del newNode['label_props'][label[1]]
+                if label[2] != '':
+                    newNode['label_props'].update({label[2]: label_value})
 
-setOfKeys = set(setOfKeys)
-setOfKeys = sorted(setOfKeys)
+            except KeyError:
+                print(f'{label[1]} {labels.index(label) + 2}')
 
-for s in setOfKeys:
-    print(s)
+    data.insert(data.index(node), newNode)
+    data.remove(node)
 
-## manipulate the data
-## - remove edges
-## - identify the label
-## - rename, drop, or add properties as appropriate
-
-print('manipulate the data here')
-
-data = 'stuff'
-
-## write the output file
-
-with open(outputFilepath, 'w') as f:
-  f.write(json.dumps(data, indent=4, sort_keys=True))
-
+with open(outputFilePath, mode='w') as file:
+    json.dump(data, file, indent=4)
